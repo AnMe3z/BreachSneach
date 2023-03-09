@@ -11,9 +11,8 @@ export default class App extends Component {
       <ChakraProvider>
         <div>Logo</div>
         <Image 
-          src=""
-          boxSize="200px"
-          objectFit="cover"
+          src="https://raw.githubusercontent.com/AnMe3z/BreachSneach/main/FrontEnd/pages/images/Logo.jpg"
+          boxSize="300px"
         />
       </ChakraProvider>
     );
