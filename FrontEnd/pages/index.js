@@ -9,8 +9,11 @@ export default class App extends Component {
   render() {
     return (
       <ChakraProvider>
-        <div>Your Next.js App</div>
-        <Image src="gibbresh.png" fallbackSrc="../images/Logo.png" />
+        <div>Logo</div>
+        <Image 
+          src="https://raw.githubusercontent.com/AnMe3z/BreachSneach/main/FrontEnd/pages/images/Logo.jpg"
+          boxSize="300px"
+        />
       </ChakraProvider>
     );
   }
