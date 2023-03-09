@@ -7,7 +7,7 @@ import { Button, ButtonGroup } from '@chakra-ui/react'
 const regex = new RegExp(/\.\/images\//);
 
 const handleButtonClick = () => {
-  window.location.href = "";
+  window.location.href = "FrontEnd/pages/login.html";
 };
 
 export default class App extends Component {
