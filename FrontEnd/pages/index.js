@@ -7,7 +7,7 @@ import { Button, ButtonGroup } from '@chakra-ui/react'
 const regex = new RegExp(/\.\/images\//);
 
 const handleButtonClick = () => {
-  window.location.href = "https://raw.githubusercontent.com/AnMe3z/BreachSneach/main/FrontEnd/pages/login.html";
+  window.location.href = '/login.html';
 };
 
 export default class App extends Component {
@@ -22,6 +22,8 @@ export default class App extends Component {
           <Button onClick={handleButtonClick} colorScheme="blackAlpha" variant="outline" color="#FFFFFF" borderColor="#32127A" bg="#000000">Get started</Button>
         </Flex>
       </ChakraProvider>
+    
     );
+      
   }
 }

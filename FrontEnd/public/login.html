@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Login with MetaMask</title>
+  <link rel="icon" href="/favicon.ico" />
+  <style>
+    .login-button {
+      padding: 1rem 2rem;
+      font-size: 1.2rem;
+      background-color: #000000;
+      color: #fff;
+      border: none;
+      border-radius: 0.25rem;
+      cursor: pointer;
+    }
+
+    .login-button:hover {
+      background-color: #32127A;
+    }
+  </style>
+</head>
+<body>
+  <h1>Login with MetaMask</h1>
+  <button class="login-button" onclick="requestAccounts()">Log in with MetaMask</button>
+  <script>
+    // Initialize the MetaMask provider
+    const provider = new window.ethereum;
+
+    // Request access to the user's accounts
+    async function requestAccounts() {
+      try {
+        const accounts = await provider.request({ method: 'eth_requestAccounts' });
+        console.log('Logged in with MetaMask:', accounts[0]);
+        // Redirect to the protected page
+        window.location.href = '/protected.html';
+      } catch (error) {
+        console.error('Failed to log in with MetaMask:', error);
+      }
+    }
+  </script>
+</body>
+</html>
