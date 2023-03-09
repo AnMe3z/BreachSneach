@@ -1,10 +1,17 @@
-import React, { Component } from "react"
-import { ChakraProvider } from '@chakra-ui/react'
+import React, { Component } from "react";
+import { CacheProvider } from '@chakra-ui/next-js'
+import { ChakraProvider } from "@chakra-ui/react";
+import { Image } from "@chakra-ui/react";
 
-export default class extends Component {
-  render () {
+const regex = new RegExp(/\.\/images\//);
+
+export default class App extends Component {
+  render() {
     return (
-      <div>Your Next.js App</div>
-    )
+      <ChakraProvider>
+        <div>Your Next.js App</div>
+        <Image src="gibbresh.png" fallbackSrc="../images/Logo.png" />
+      </ChakraProvider>
+    );
   }
 }
