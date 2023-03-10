@@ -1,20 +1,41 @@
 import tensorflow as tf
-import tensorflowjs as tfjs
 import pandas as pd
 import numpy as np
 
-trainDataset = pd.read_csv('trustWorthy-database.csv')
-testDataset = pd.read_csv('trustWorthy-database(Test).csv')
+trainDataset = pd.read_csv('Data/trustWorthy-database.csv', names = ['id', 'entity', 'year', 'records', 'type', 'method']).head(10)
+testDataset = pd.read_csv('Data/trustWorthy-database(Test).csv', names = ['id', 'entity', 'year', 'records', 'type', 'method'])
 
-(x_train, y_train) = trainDataset.load_data()
-(x_test, y_test) = testDataset.load_data()
+# TODO: check in csv for ""
+# TODO: remove head 10
+# TODO: output
+# TODO: convert nparray to
+types = [' ',
+        'Orphanage', 
+        'Hospital', 
+        'Bank', 
+        'Supermarket', 
+        'Hardware Store', 
+        'School', 
+        'Shooting Range', 
+        'Kindergarden', 
+        'Government', 
+        'Non-Profit',
+        'Train Station',
+        'Small Business',
+        'Local Shop',
+        'Pizzeria',
+        'Sandwitch Shop',
+        'Burget Franchaise']
 
-x_train, x_test = x_train / 255.0, x_test / 255.0
+t = trainDataset['type'].apply(lambda x: np.isin(types, x).astype(int))
+o = trainDataset['method'].apply(lambda x: np.isin(types, x).astype(int))
+
 
 model = tf.keras.models.Sequential([
-    tf.keras.layers.Flatten(input_shape=(28,28)),
-    tf.keras.layers.Dense(128, activation='relu'),
-    tf.keras.layers.Dense(10)
+    tf.keras.layers.Input(17),
+    tf.keras.layers.Dense(20, activation='relu'),
+    tf.keras.layers.Dense(25, activation='relu'),
+    tf.keras.layers.Dense(19)
 ])
 
 loss = tf.keras.losses.SparseCategoricalCrossentropy(from_logits=True)
@@ -23,8 +44,8 @@ model.compile(optimizer='adam',
               loss=loss, 
               metrics=['accuracy'])
 
-model.fit(x_train, y_train, epochs=5)
+model.fit(t, o, epochs=5)
 
-model.evaluate(x_test, y_test)
+# model.evaluate(organizationTypeTest, methodsTest)
 
-tfjs.converters.save_keras_model(model, "TensorflowJS")
+
