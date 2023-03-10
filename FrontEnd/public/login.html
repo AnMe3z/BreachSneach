@@ -31,22 +31,8 @@
 </head>
 <body>
   <h1>Login with MetaMask</h1>
-  <button class="login-button" onclick="requestAccounts()">Log in with MetaMask</button>
-  <script>
-    // Initialize the MetaMask provider
-    const provider = new window.ethereum;
-
-    // Request access to the user's accounts
-    async function requestAccounts() {
-      try {
-        const accounts = await provider.request({ method: 'eth_requestAccounts' });
-        console.log('Logged in with MetaMask:', accounts[0]);
-        // Redirect to the protected page
-        window.location.href = '/protected.html';
-      } catch (error) {
-        console.error('Failed to log in with MetaMask:', error);
-      }
-    }
-  </script>
+  <button class="login-button" onclick="window.location.href = '/main_page.html';">
+    Log in with MetaMask
+  </button>
 </body>
 </html>

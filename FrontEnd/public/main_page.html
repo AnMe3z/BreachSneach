@@ -1,11 +1,20 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <meta charset="UTF-8">
-  <title>Login with MetaMask</title>
-  <link rel="icon" href="/favicon.ico" />
+<div style="text-align: center;">
   <style>
-    .login-button {
+    body {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      margin: 0;
+    }
+
+    h1 {
+      font-size: 2.5rem;
+      margin-bottom: 2rem;
+    }
+
+    .business-type {
       padding: 1rem 2rem;
       font-size: 1.2rem;
       background-color: #000000;
@@ -15,38 +24,27 @@
       cursor: pointer;
     }
 
-    .login-button:hover {
+    .business-type:hover {
       background-color: #32127A;
     }
-
-    body {
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      justify-content: center;
-      height: 100vh;
-      margin: 0;
-    }
   </style>
-</head>
-<body>
-  <h1>Login with MetaMask</h1>
-  <button class="login-button" onclick="requestAccounts()">Log in with MetaMask</button>
-  <script>
-    // Initialize the MetaMask provider
-    const provider = new window.ethereum;
-
-    // Request access to the user's accounts
-    async function requestAccounts() {
-      try {
-        const accounts = await provider.request({ method: 'eth_requestAccounts' });
-        console.log('Logged in with MetaMask:', accounts[0]);
-        // Redirect to the protected page
-        window.location.href = '/protected.html';
-      } catch (error) {
-        console.error('Failed to log in with MetaMask:', error);
-      }
-    }
-  </script>
-</body>
-</html>
+  
+  <h1>Select the type of business you want to start</h1>
+  <select name="business-type">
+    <option value="Hospital">Hospital</option>
+    <option value="Bank">Bank</option>
+    <option value="Supermarket">Supermarket</option>
+    <option value="Hardware Store">Hardware Store</option>
+    <option value="School">School</option>
+    <option value="Shooting Range">Shooting Range</option>
+    <option value="Kindergarten">Kindergarten</option>
+    <option value="Government">Government</option>
+    <option value="Non-Profit">Non-Profit</option>
+    <option value="Train Station">Train Station</option>
+    <option value="Small Business">Small Business</option>
+    <option value="Local Shop">Local Shop</option>
+    <option value="Pizzeria">Pizzeria</option>
+    <option value="Sandwich Shop">Sandwich Shop</option>
+    <option value="Burger Franchise">Burger Franchise</option>
+  </select>
+</
