@@ -1,10 +1,10 @@
 import { useWeb3React } from "@web3-react/core";
 import Head from "next/head";
 import Link from "next/link";
+import { useEffect, useState } from "react";
 import Account from "../components/Account";
 import NativeCurrencyBalance from "../components/NativeCurrencyBalance";
 import TokenBalance from "../components/TokenBalance";
-import USLibrary from "../components/USLibrary";
 import { ALBT_TOKEN_ADDRESS, US_ELECTION_ADDRESS } from "../constants";
 import useEagerConnect from "../hooks/useEagerConnect";
 
@@ -13,11 +13,17 @@ function Home() {
 
   const triedToEagerConnect = useEagerConnect();
   
-  const handleButtonClick = () => {
+  const changePage = () => {
     window.location.href = "/main.tsx";
   };
   
   const isConnected = typeof account === "string" && !!library;
+  
+  useEffect(() => {
+    if (isConnected) {
+      changePage();
+    }
+  }, [isConnected]);
 
   return (
     <div>
@@ -40,17 +46,15 @@ function Home() {
         <h1>
           Welcome to BreachSneach
         </h1>
-        
-        <button onClick={handleButtonClick}>Get started</button>
 
-        {isConnected && (
-          <section>
-            <NativeCurrencyBalance />
+          {/* // --- displays the users balance
 
-            <TokenBalance tokenAddress={ALBT_TOKEN_ADDRESS} symbol="ALBT" />
-            <USLibrary contractAddress={US_ELECTION_ADDRESS} />
-          </section>
-        )}
+          // <section>
+          //   <NativeCurrencyBalance />
+
+          //   <TokenBalance tokenAddress={ALBT_TOKEN_ADDRESS} symbol="ALBT" />
+          //   <USLibrary contractAddress={US_ELECTION_ADDRESS} />
+          // </section> */}
       </main>
 
       <style jsx>{`
