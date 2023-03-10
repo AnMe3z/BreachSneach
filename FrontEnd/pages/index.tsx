@@ -12,11 +12,11 @@ function Home() {
   const { account, library } = useWeb3React();
 
   const triedToEagerConnect = useEagerConnect();
-  
+
   const handleButtonClick = () => {
     window.location.href = "/main.tsx";
   };
-  
+
   const isConnected = typeof account === "string" && !!library;
 
   return (
@@ -37,11 +37,25 @@ function Home() {
       </header>
 
       <main>
-        <h1>
-          Welcome to BreachSneach
-        </h1>
-        
-        <button onClick={handleButtonClick}>Get started</button>
+        <h1>Welcome to BreachSneach</h1>
+
+        <button
+          title="You must be authenticated"
+          onClick={handleButtonClick}
+          style={{
+            backgroundColor: "#000000",
+            color: "#ffffff",
+            padding: "1rem 2rem",
+            fontSize: "1.2rem",
+            borderRadius: "0.25rem",
+            border: "none",
+            cursor: "pointer",
+            marginTop: "2rem",
+            boxShadow: "0 0.25rem 0.5rem rgba(0, 0, 0, 0.15)",
+          }}
+        >
+          Get started
+        </button>
 
         {isConnected && (
           <section>
