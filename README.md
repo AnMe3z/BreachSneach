@@ -1,4 +1,3 @@
-**BreachSneach**
 
 ![Screenshot](logo.png)
 
