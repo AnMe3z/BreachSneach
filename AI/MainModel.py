@@ -1,10 +1,17 @@
 import tensorflow as tf
 import tensorflowjs as tfjs
 import pandas as pd
+import numpy as np
 
-train = pd.read_csv('trustWorthy-database.csv')
+trainDataset = pd.read_csv('trustWorthy-database.csv')
+testDataset = pd.read_csv('trustWorthy-database(Test).csv')
 
-(x_train, y_train), (x_test, y_test) = train.load_data()
+#train train - train dataset        
+#test test - test dataset
+
+(x_train, y_train) = trainDataset.load_data()
+(x_test, y_test) = testDataset.load_data()
+
 x_train, x_test = x_train / 255.0, x_test / 255.0
 
 model = tf.keras.models.Sequential([
