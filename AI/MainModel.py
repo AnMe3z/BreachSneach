@@ -1,6 +1,7 @@
 import tensorflow as tf
 import pandas as pd
 import numpy as np
+import tensorflowjs as tfjs
 
 trainDataset = pd.read_csv('Data/trustWorthy-database.csv', names = ['id', 'entity', 'year', 'records', 'type', 'method']).head(10)
 testDataset = pd.read_csv('Data/trustWorthy-database(Test).csv', names = ['id', 'entity', 'year', 'records', 'type', 'method'])
@@ -29,6 +30,8 @@ types = [' ',
 
 t = trainDataset['type'].apply(lambda x: np.isin(types, x).astype(int))
 o = trainDataset['method'].apply(lambda x: np.isin(types, x).astype(int))
+
+print(type(t))
 
 
 model = tf.keras.models.Sequential([
