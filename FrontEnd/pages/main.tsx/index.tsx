@@ -7,11 +7,12 @@ const SelectProjectType: React.FC = () => {
     const selectedValue = event.target.value;
     console.log(`Selected project type: ${selectedValue}`);
     const textBox = document.getElementById("my-textbox") as HTMLTextAreaElement;
-    //textBox.value = `You have selected "${selectedValue}" as your project type.`;
     const res = await fetch(`/api/api_base?name1=${selectedValue}`);
     const json = await res.json();
-    console.log(json.message);
+//    const jsonString = JSON.stringify(json.projectType);
+    textBox.value = `You have selected ${json.projectType} as your project type.`;
   }
+
   return (
     <html>
       <head>
