@@ -43,6 +43,10 @@ function Home() {
       <main>
         <h1>Welcome to BreachSneach</h1>
 
+        <h2> sahdhwjdsakfhfwqjkdhsajkfh
+          sadjkwqjdhkasjdfhfw asd wqdas fwa
+        </h2>
+
         <Account triedToEagerConnect={triedToEagerConnect} />
 
           {/* --- show user balance  */}
