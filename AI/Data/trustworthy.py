@@ -41,10 +41,10 @@ method = ['Malware',
           'Cross-site Scripting Attack'
           ]
 
-with open('trust-database.csv', 'w') as file:
+with open('ai/data/trust-database.csv', 'w') as file:
     writer = csv.writer(file)
 
-with open('trust-database.csv', 'w') as file:
+with open('ai/data/trust-database.csv', 'w') as file:
     writer = csv.writer(file)
     i = 0
 
