@@ -1,4 +1,6 @@
 import React from "react";
+import Link from "next/link";
+import Head from "next/head";
 
 const SelectProjectType: React.FC = () => {
   const handleSelect = (event: React.ChangeEvent<HTMLSelectElement>) => {
