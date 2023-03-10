@@ -3,9 +3,9 @@
 ![Screenshot](logo.png)
 
 ## ***<h2 align="center">BreachSneach***</h1> 
-** BreachSneachе проекта на TariCAD sistema за Hack Tues 9.**
+BreachSneachе проекта на TariCAD sistema за Hack Tues 9.
 
-**Автори:**
+## ***<h2 align="center">Автори:***</h1> 
     -Андрей Ежков - 11 Г клас
     -Димитър Милчев - 10 А клас
     -Викторио Миланов - 11 Г клас
