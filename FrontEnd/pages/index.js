@@ -17,7 +17,7 @@ export default class App extends Component {
         <Flex h="100vh" alignItems="center" justifyContent="center">
           <Image 
             src="https://raw.githubusercontent.com/TariCAD-sistema/BreachSneach/main/logo.jpg"
-            boxSize="662 px x 207px"
+            boxSize="332px x 217px"
           />
           <Button onClick={handleButtonClick} colorScheme="blackAlpha" variant="outline" color="#FFFFFF" borderColor="#32127A" bg="#000000">Get started</Button>
         </Flex>
