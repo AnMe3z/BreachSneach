@@ -1,8 +1,7 @@
-
-![Screenshot](logo.png)
-
 ## ***<h2 align="center">BreachSneach***</h1> 
 BreachSneachе проекта на TariCAD sistema за Hack Tues 9. Проектът е концепция за prediction на кибер атаки и security breach-ове.
+
+![Screenshot](logo.png)
 
 ## ***<h2 align="center">Начин на работа***</h1> 
 Потребителя избира в какъв сектор ще създава проект и AI му дава възможни начини за пробиви в бъдеще.
