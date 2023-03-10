@@ -2,7 +2,8 @@
 
 ![Screenshot](logo.png)
 
-**BreachSneach е проекта на TariCAD sistema за Hack Tues 9.**
+## ***<h2 align="center">BreachSneach***</h1>** 
+** BreachSneachе проекта на TariCAD sistema за Hack Tues 9.**
 
 **Автори:**
     -Андрей Ежков - 11 Г клас
