@@ -23,7 +23,7 @@ type = ['Orphanage',
         'Burget Franchaise']
 method = ['Malware',
           'DoS Attack',
-          'Worm Virus'
+          'Worm Virus',
           'DDoS Attack',
           'Phishing',
           'Spoofing',
