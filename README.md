@@ -17,10 +17,16 @@ BreachSneachе проекта на TariCAD sistema за Hack Tues 9. Проек�
 Викторио Миланов - 11 Г клас
 
 ## ***<h2 align="center">Използвани технологии***</h1> 
+
+
 NextJS
+
 Python
+
 React
+
 Tensorflow
+
 Blockchain
     
 
