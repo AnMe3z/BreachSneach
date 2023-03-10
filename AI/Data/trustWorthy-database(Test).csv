@@ -13,7 +13,7 @@
 1009,Company A.G.,2023,7738021,Hardware Store,Spoofing
 101,Inc Vectren,2011,4880118,Government,Business Email Compromise Attack
 1010,Laboratories Abercrombie,2022,62687670,Government,Spoofing
-"1011,""Group,"",2013,1998747,Government,DoS Attack"
+1011,Group,,2013,1998747,Government,DoS Attack
 1012,Corporation America,2022,27052784,Small Business,Man In The Middle Attack
 1013,Inc USA,2014,97254078,Hospital,Cryptojacking Attack
 1014,Parcel,2020,48299862,Government,Zero-Day Exploit Attack
@@ -41,20 +41,20 @@
 1034,Industries,2020,8051758,Bank,DoS Attack
 1035,Standard,2010,23855715,Small Business,DoS Attack
 1036,Auto,2014,22195264,Burget Franchaise,Zero-Day Exploit Attack
-"1037,""Inc. AdvancePCS,"",2022,71065610,Orphanage,Phishing"
+1037,Inc. AdvancePCS,,2022,71065610,Orphanage,Phishing
 1038,Enterprises,2011,16796916,Bank,Cross-site Scripting Attack
 1039,Micro,2020,3717542,Pizzeria,Identity-Based Attack
 104,Incorporated Ace,2012,5170256,Burget Franchaise,Worm VirusDDoS Attack
 1040,Conversion,2022,93849600,Sandwitch Shop,51% Attack
 1041,Inc Walt,2010,75560985,Burget Franchaise,SQL Injection Attack
 1042,Foods,2016,87997942,Supermarket,SQL Injection Attack
-"1043,""Parts,"",2014,23616649,Pizzeria,DoS Attack"
+1043,Parts,,2014,23616649,Pizzeria,DoS Attack
 1044,Inc. The,2021,90227700,Kindergarden,Code Injections Attack
 1045,Inc Wal-Mart,2015,30685380,Train Station,Worm VirusDDoS Attack
 1046,Resources,2012,63946164,Hospital,Cross-site Scripting Attack
 1047,Inc. Advantica,2019,9433470,Government,DoS Attack
 1048,Inc. Adelphia,2018,35930680,School,Malware
-"1049,""Group,"",2010,104041918,Train Station,Insider Attack"
+1049,Group,,2010,104041918,Train Station,Insider Attack
 105,Fargo,2019,9987495,Non-Profit,Supply chain Attack
 1050,Inc Vectren,2011,30946650,Supermarket,Insider Attack
 1051,Information,2020,18432438,Bank,Cross-site Scripting Attack
@@ -65,21 +65,21 @@
 1056,3Com,2014,5009664,Hardware Store,Worm VirusDDoS Attack
 1057,Water,2011,70462791,Government,Drive-by Attack
 1058,Corporation URS,2012,96436700,Non-Profit,Identity-Based Attack
-"1059,""Group,"",2018,32705097,Burget Franchaise,51% Attack"
+1059,Group,,2018,32705097,Burget Franchaise,51% Attack
 106,Corporation American,2013,5014860,Hospital,Phishing
-"1060,""Stores,"",2010,90600320,Non-Profit,Identity-Based Attack"
+1060,Stores,,2010,90600320,Non-Profit,Identity-Based Attack
 1061,Inc. Acterna,2014,89046547,Bank,DNS Tunneling Attack
 1062,Communications,2016,93437946,Sandwitch Shop,DoS Attack
 1063,Incorporated Ace,2019,76908050,Kindergarden,Zero-Day Exploit Attack
 1064,Corporation The,2010,61083176,Government,Code Injections Attack
 1065,Corporation Volt,2015,25275645,Local Shop,Worm VirusDDoS Attack
-"1066,""Inc. Amazon.com,"",2013,63332126,Sandwitch Shop,Malware"
+1066,Inc. Amazon.com,,2013,63332126,Sandwitch Shop,Malware
 1067,Inc Washington,2011,65157422,Burget Franchaise,SQL Injection Attack
 1068,Corporation American,2010,69687000,Orphanage,Worm VirusDDoS Attack
 1069,Corporation American,2015,81963437,Government,Cryptojacking Attack
-"107,""Company,"",2018,10007496,Kindergarden,Malware"
+107,Company,,2018,10007496,Kindergarden,Malware
 1070,Corporation TRW,2016,50547870,Burget Franchaise,Supply chain Attack
-"1071,""Devices,"",2012,49813281,Sandwitch Shop,Cryptojacking Attack"
+1071,Devices,,2012,49813281,Sandwitch Shop,Cryptojacking Attack
 1072,Coors,2022,22582752,Hardware Store,Cross-site Scripting Attack
 1073,Stationers,2018,91255431,Non-Profit,Insider Attack
 1074,Disney,2018,23740770,Government,51% Attack
@@ -103,13 +103,13 @@
 1090,Sciences,2012,85228190,Bank,SQL Injection Attack
 1091,Inc. Alberto-Culver,2018,86461750,Small Business,Cross-site Scripting Attack
 1092,Corporation United,2010,56468412,Non-Profit,Cross-site Scripting Attack
-"1093,""Holdings,"",2011,18774461,Train Station,Zero-Day Exploit Attack"
+1093,Holdings,,2011,18774461,Train Station,Zero-Day Exploit Attack
 1094,Software,2020,70564094,Shooting Range,DoS Attack
 1095,Inc US,2019,78662610,Hardware Store,Drive-by Attack
-"1096,""Parts,"",2023,56985424,Local Shop,Worm VirusDDoS Attack"
+1096,Parts,,2023,56985424,Local Shop,Worm VirusDDoS Attack
 1097,Resources,2010,101356218,Supermarket,SQL Injection Attack
 1098,Inc Vectren,2012,67918986,Small Business,Code Injections Attack
-"1099,""Group,"",2012,93245754,Non-Profit,Zero-Day Exploit Attack"
+1099,Group,,2012,93245754,Non-Profit,Zero-Day Exploit Attack
 11,Inc Universal,2018,845262,Burget Franchaise,Worm VirusDDoS Attack
 110,Air,2020,1779470,Train Station,Zero-Day Exploit Attack
 1100,Inc Weatherford,2014,85819800,Hardware Store,DoS Attack
@@ -132,14 +132,14 @@
 1116,Inc Unocal,2020,92411496,Sandwitch Shop,DoS Attack
 1117,Corporation United,2012,40561621,Hardware Store,Spoofing
 1118,Services,2019,51070240,Non-Profit,Man In The Middle Attack
-"1119,""Company,"",2018,105460155,Small Business,Identity-Based Attack"
+1119,Company,,2018,105460155,Small Business,Identity-Based Attack
 112,Technologies,2021,9308544,Sandwitch Shop,Identity-Based Attack
 1120,Inc. AFLAC,2010,101618720,Bank,Drive-by Attack
 1121,Inc. Allegheny,2013,51549185,Train Station,Man In The Middle Attack
 1122,Group,2015,62409006,Burget Franchaise,Insider Attack
-"1123,""Stores,"",2013,94175903,Shooting Range,Business Email Compromise Attack"
+1123,Stores,,2013,94175903,Shooting Range,Business Email Compromise Attack
 1124,and,2013,42254532,Non-Profit,Malware
-"1125,""Industries,"",2023,78214500,Hospital,SQL Injection Attack"
+1125,Industries,,2023,78214500,Hospital,SQL Injection Attack
 1126,Corporation The,2018,98896580,Orphanage,Identity-Based Attack
 1127,Micro,2023,80618818,Government,DoS Attack
 1128,Gas,2021,64039944,Bank,Insider Attack
@@ -158,12 +158,12 @@
 114,Industries,2019,7008720,Orphanage,Spoofing
 1140,Gas,2023,36936000,Government,DoS Attack
 1141,Incorporated AGCO,2021,102867996,Burget Franchaise,Man In The Middle Attack
-"1142,""Group,"",2010,33300720,School,SQL Injection Attack"
+1142,Group,,2010,33300720,School,SQL Injection Attack
 1143,Entertainment,2014,36391977,Hospital,SQL Injection Attack
 1144,Inc. Wellpoint,2016,70282784,Hospital,Zero-Day Exploit Attack
 1145,Department,2019,21951940,Local Shop,Spoofing
 1146,Inc. Amkor,2020,82726302,Kindergarden,Malware
-"1147,""Energy,"",2011,57963645,Shooting Range,Malware"
+1147,Energy,,2011,57963645,Shooting Range,Malware
 1148,Information,2012,5544840,Burget Franchaise,Phishing
 1149,Inc Western,2014,106789209,Pizzeria,Man In The Middle Attack
 115,Materials,2023,6496465,Kindergarden,Identity-Based Attack
@@ -180,14 +180,14 @@
 116,Corporation American,2014,10952952,Non-Profit,Business Email Compromise Attack
 1160,AES,2017,29577680,Supermarket,SQL Injection Attack
 1161,Inc Varco,2012,22180905,Sandwitch Shop,Drive-by Attack
-"1162,""Energy,"",2023,63977396,Hardware Store,Code Injections Attack"
+1162,Energy,,2023,63977396,Hardware Store,Code Injections Attack
 1163,Stationers,2019,65776954,Non-Profit,Insider Attack
 1164,Inc. Agway,2020,83821968,Non-Profit,Supply chain Attack
 1165,Systems,2015,59747025,Hospital,Man In The Middle Attack
 1166,Axle,2011,95005680,Sandwitch Shop,Spoofing
 1167,Electric,2012,73766070,Supermarket,DoS Attack
 1168,Inc VF,2021,5586544,Sandwitch Shop,DoS Attack
-"1169,""Industries,"",2014,41529894,School,Business Email Compromise Attack"
+1169,Industries,,2014,41529894,School,Business Email Compromise Attack
 117,Standard,2023,8893872,Supermarket,Zero-Day Exploit Attack
 1170,Greetings,2020,53148420,Train Station,Cryptojacking Attack
 1171,Corporation The,2020,94454031,Supermarket,DoS Attack
@@ -197,11 +197,11 @@
 1175,Grainger,2015,41773600,Orphanage,Identity-Based Attack
 1176,Inc. Advanced,2011,16306416,Orphanage,Supply chain Attack
 1177,Corporation Allied,2021,87598225,Government,DNS Tunneling Attack
-"1178,""Group,"",2011,100841512,Sandwitch Shop,Insider Attack"
+1178,Group,,2011,100841512,Sandwitch Shop,Insider Attack
 1179,Sciences,2010,25267149,Local Shop,Cross-site Scripting Attack
 118,Inc Visteon,2011,3568320,Burget Franchaise,Spoofing
 1180,Corporation Aetna,2018,116712620,Sandwitch Shop,Man In The Middle Attack
-"1181,""Corporation Administaff,"",2020,8872853,Hospital,Malware"
+1181,Corporation Administaff,,2020,8872853,Hospital,Malware
 1182,Manufacturing,2015,6709032,Small Business,DoS Attack
 1183,Materials,2014,61773894,Hardware Store,Supply chain Attack
 1184,Inc. Apartment,2020,50369728,Hardware Store,Business Email Compromise Attack
@@ -209,7 +209,7 @@
 1186,Inc United,2017,113967484,Non-Profit,Malware
 1187,Micro,2014,3914726,Supermarket,Code Injections Attack
 1188,Corporation Allegheny,2016,81702324,Bank,51% Attack
-"1189,""Telecommunications,"",2016,51234010,Shooting Range,Identity-Based Attack"
+1189,Telecommunications,,2016,51234010,Shooting Range,Identity-Based Attack
 119,Department,2022,5664638,Hospital,DoS Attack
 1190,Inc Watsco,2018,45415160,Hardware Store,SQL Injection Attack
 1191,Inc U.S.,2017,47065938,Sandwitch Shop,Supply chain Attack
@@ -218,9 +218,9 @@
 1194,Inc. Alliant,2016,39218124,Non-Profit,DoS Attack
 1195,Standard,2010,40296595,Hardware Store,DNS Tunneling Attack
 1196,Corporation US,2010,39012324,Orphanage,DoS Attack
-"1197,""Company,"",2014,83010753,Non-Profit,Worm VirusDDoS Attack"
+1197,Company,,2014,83010753,Non-Profit,Worm VirusDDoS Attack
 1198,Inc United,2010,48610048,Bank,Supply chain Attack
-"1199,""Holdings,"",2015,80668720,Shooting Range,Malware"
+1199,Holdings,,2015,80668720,Shooting Range,Malware
 12,Inc. ADC,2023,408312,Sandwitch Shop,DNS Tunneling Attack
 120,Corporation URS,2012,8897040,School,Malware
 1200,Sciences,2012,22080000,Hardware Store,Business Email Compromise Attack
@@ -232,7 +232,7 @@
 1206,Networks,2018,84995262,Small Business,DNS Tunneling Attack
 1207,Management,2012,21820146,Hardware Store,51% Attack
 1208,Inc. American,2022,45691392,Shooting Range,Identity-Based Attack
-"1209,""Energy,"",2019,120729531,Supermarket,SQL Injection Attack"
+1209,Energy,,2019,120729531,Supermarket,SQL Injection Attack
 121,Corporation Volt,2011,455202,Kindergarden,Cross-site Scripting Attack
 1210,Companies,2017,81362820,Hospital,DoS Attack
 1211,Investment,2016,84468461,Hospital,Worm VirusDDoS Attack
@@ -244,15 +244,15 @@
 1217,Information,2013,77915991,Small Business,Supply chain Attack
 1218,Inc Weyerhauser,2023,85059030,Sandwitch Shop,SQL Injection Attack
 1219,Corp Unisource,2016,100383431,School,Malware
-"122,""Group,"",2018,3025478,Supermarket,Phishing"
+122,Group,,2018,3025478,Supermarket,Phishing
 1220,West,2014,62263920,Pizzeria,51% Attack
 1221,Edwards,2017,87158643,Pizzeria,Spoofing
 1222,Inc. American,2012,11093316,Sandwitch Shop,Insider Attack
-"1223,""Group,"",2010,91014437,Local Shop,Spoofing"
+1223,Group,,2010,91014437,Local Shop,Spoofing
 1224,Holding,2017,44531568,School,Code Injections Attack
-"1225,""Corporation Administaff,"",2015,121910775,Non-Profit,Drive-by Attack"
+1225,Corporation Administaff,,2015,121910775,Non-Profit,Drive-by Attack
 1226,Resources,2023,70022990,Small Business,Man In The Middle Attack
-"1227,""Company,"",2019,28116705,Orphanage,DoS Attack"
+1227,Company,,2019,28116705,Orphanage,DoS Attack
 1228,Inc. Apartment,2015,70745080,Supermarket,DNS Tunneling Attack
 1229,Grainger,2020,115133949,Hardware Store,SQL Injection Attack
 123,Services,2019,9411837,Government,Spoofing
@@ -272,7 +272,7 @@
 1242,Inc TXU,2018,11835018,School,Phishing
 1243,Steel,2023,55068629,Local Shop,Cross-site Scripting Attack
 1244,Corporation Valspar,2019,42662980,Kindergarden,Drive-by Attack
-"1245,""Inc. Amazon.com,"",2015,118603680,Burget Franchaise,Supply chain Attack"
+1245,Inc. Amazon.com,,2015,118603680,Burget Franchaise,Supply chain Attack
 1246,Corp Unisource,2010,26575934,Bank,51% Attack
 1247,Corporation W.R.,2012,2273281,Train Station,Phishing
 1248,Company Advance,2018,73872864,Shooting Range,Phishing
@@ -280,7 +280,7 @@
 125,Inc. Alberto-Culver,2011,3501875,Local Shop,Identity-Based Attack
 1250,Group,2013,1202500,Train Station,Code Injections Attack
 1251,Corporation Value,2022,5276718,Small Business,Spoofing
-"1252,""Energy,"",2012,124074452,Orphanage,Business Email Compromise Attack"
+1252,Energy,,2012,124074452,Orphanage,Business Email Compromise Attack
 1253,Co. Waste,2013,113000552,Orphanage,SQL Injection Attack
 1254,Conversion,2013,80029026,Hospital,Spoofing
 1255,Corporation URS,2019,103675550,Hospital,Worm VirusDDoS Attack
@@ -293,11 +293,11 @@
 1261,Inc Wachovia,2020,61177415,Kindergarden,SQL Injection Attack
 1262,Inc Unocal,2020,34602778,Pizzeria,SQL Injection Attack
 1263,Allstate,2023,44505594,Bank,Drive-by Attack
-"1264,""Stores,"",2020,103223296,Train Station,Business Email Compromise Attack"
+1264,Stores,,2020,103223296,Train Station,Business Email Compromise Attack
 1265,Corporation Union,2022,54205250,Sandwitch Shop,DNS Tunneling Attack
 1266,Inc Weatherford,2023,63153144,Local Shop,Worm VirusDDoS Attack
 1267,Air,2016,57235458,Bank,Drive-by Attack
-"1268,""Inc. AdvancePCS,"",2010,53444932,Sandwitch Shop,DNS Tunneling Attack"
+1268,Inc. AdvancePCS,,2010,53444932,Sandwitch Shop,DNS Tunneling Attack
 1269,Corporation ALLTEL,2015,113056479,Bank,Supply chain Attack
 127,Inc Western,2016,6682994,Small Business,Code Injections Attack
 1270,Inc Valero,2022,4607560,Kindergarden,51% Attack
@@ -308,7 +308,7 @@
 1275,Group,2022,83872050,Bank,Insider Attack
 1276,Health,2010,72067204,Train Station,Identity-Based Attack
 1277,Inc. United,2011,44202078,Local Shop,Phishing
-"1278,""Chemicals,"",2016,120020814,Kindergarden,Identity-Based Attack"
+1278,Chemicals,,2016,120020814,Kindergarden,Identity-Based Attack
 1279,Financial,2021,50679096,Small Business,Zero-Day Exploit Attack
 128,Management,2021,1572608,Pizzeria,SQL Injection Attack
 1280,Industries,2014,70839040,Hardware Store,DoS Attack
@@ -323,7 +323,7 @@
 1289,Corporation Verizon,2023,128277413,Small Business,Man In The Middle Attack
 129,Inc Union,2021,7633833,Shooting Range,SQL Injection Attack
 1290,Airways,2011,117498360,Hardware Store,Supply chain Attack
-"1291,""Energy,"",2013,50294778,Non-Profit,Supply chain Attack"
+1291,Energy,,2013,50294778,Non-Profit,Supply chain Attack
 1292,Inc. Abbott,2010,102220456,Hospital,Supply chain Attack
 1293,Company Albertson,2020,90198387,School,Code Injections Attack
 1294,Corporation UGI,2014,18857462,Sandwitch Shop,Cryptojacking Attack
@@ -341,7 +341,7 @@
 1304,Inc Washington,2021,3253480,Small Business,Cryptojacking Attack
 1305,Inc Weyerhauser,2022,121478535,Burget Franchaise,51% Attack
 1306,Restaurant,2010,111657776,Hardware Store,Business Email Compromise Attack
-"1307,""Corporation Administaff,"",2010,123094567,Non-Profit,SQL Injection Attack"
+1307,Corporation Administaff,,2010,123094567,Non-Profit,SQL Injection Attack
 1308,Inc. Alberto-Culver,2015,42380508,Train Station,Malware
 1309,Electric,2012,15345407,Burget Franchaise,Man In The Middle Attack
 131,Stationers,2021,10582180,Supermarket,Zero-Day Exploit Attack
@@ -357,9 +357,9 @@
 1319,Inc. Allegheny,2013,13874561,Local Shop,Zero-Day Exploit Attack
 132,Corporation America,2022,10259832,Hospital,Cross-site Scripting Attack
 1320,Corporation USG,2014,103382400,Government,Insider Attack
-"1321,""Telecommunications,"",2019,128566325,Shooting Range,Man In The Middle Attack"
+1321,Telecommunications,,2019,128566325,Shooting Range,Man In The Middle Attack
 1322,Financial,2019,3956746,Kindergarden,Spoofing
-"1323,""Services,"",2017,42203700,Local Shop,51% Attack"
+1323,Services,,2017,42203700,Local Shop,51% Attack
 1324,Eagle,2014,5813684,Small Business,Phishing
 1325,Inc Weyerhauser,2021,108761300,Kindergarden,Code Injections Attack
 1326,Inc. Alleghany,2011,80546544,Train Station,Malware
@@ -370,14 +370,14 @@
 1330,Inc WestPoint,2014,52161270,Supermarket,DoS Attack
 1331,Laboratories Abercrombie,2012,109488060,Government,Spoofing
 1332,Allstate,2017,128025180,Non-Profit,Spoofing
-"1333,""Inc. ALLETE,"",2020,129591594,Hospital,DoS Attack"
+1333,Inc. ALLETE,,2020,129591594,Hospital,DoS Attack
 1334,Inc Walt,2014,86099028,Train Station,Business Email Compromise Attack
 1335,Co W.W.,2023,5163780,Kindergarden,DoS Attack
 1336,Planters,2021,65667072,Small Business,51% Attack
 1337,Works,2010,92179465,Local Shop,51% Attack
 1338,Inc. Acterna,2022,73848234,Hardware Store,Drive-by Attack
 1339,Interactive USFreighways,2011,65095485,Train Station,Supply chain Attack
-"134,""Energy,"",2019,11652238,School,Supply chain Attack"
+134,Energy,,2019,11652238,School,Supply chain Attack
 1340,Energy,2017,76036960,Hardware Store,Insider Attack
 1341,Axle,2021,2365524,School,Supply chain Attack
 1342,Inc TXU,2013,68682218,Government,Identity-Based Attack
@@ -411,7 +411,7 @@
 1368,Inc USA,2023,37182240,Small Business,DoS Attack
 1369,Corporation Verizon,2016,106494510,Government,Zero-Day Exploit Attack
 137,Holding,2023,5063246,Train Station,Spoofing
-"1370,""Company,"",2018,88314310,Small Business,Code Injections Attack"
+1370,Company,,2018,88314310,Small Business,Code Injections Attack
 1371,Services,2023,34547829,Train Station,Supply chain Attack
 1372,Department,2021,42703500,Supermarket,Cross-site Scripting Attack
 1373,Service,2023,94169951,Non-Profit,SQL Injection Attack
@@ -421,10 +421,10 @@
 1377,Grocers,2014,72353088,Burget Franchaise,Cross-site Scripting Attack
 1378,Auto,2016,72708792,Kindergarden,Insider Attack
 1379,Corporation The,2020,6489574,Local Shop,DNS Tunneling Attack
-"138,""Technologies,"",2023,7656516,Train Station,Code Injections Attack"
+138,Technologies,,2023,7656516,Train Station,Code Injections Attack
 1380,Inc Wells,2022,74212260,Orphanage,Zero-Day Exploit Attack
 1381,Corporation Allied,2014,93131878,Kindergarden,SQL Injection Attack
-"1382,""Corporation Administaff,"",2022,59285036,Government,Worm VirusDDoS Attack"
+1382,Corporation Administaff,,2022,59285036,Government,Worm VirusDDoS Attack
 1383,Inc Vishay,2018,33824031,Shooting Range,Malware
 1384,Industries,2023,52608608,Non-Profit,51% Attack
 1385,Inc Washington,2021,62516130,Hardware Store,Man In The Middle Attack
@@ -441,11 +441,11 @@
 1395,Company Wendy,2012,4680225,School,Worm VirusDDoS Attack
 1396,Corp Unisource,2016,76400288,Kindergarden,Business Email Compromise Attack
 1397,Inc United,2019,83761326,School,DNS Tunneling Attack
-"1398,""Industries,"",2020,21750084,Hospital,51% Attack"
+1398,Industries,,2020,21750084,Hospital,51% Attack
 1399,Corporation AMERCO Ameren,2019,63230603,Bank,Malware
 14,International,2020,1081080,Supermarket,Identity-Based Attack
 140,Incorporated Ace,2015,12186300,Bank,Man In The Middle Attack
-"1400,""Services,"",2019,105548800,School,Man In The Middle Attack"
+1400,Services,,2019,105548800,School,Man In The Middle Attack
 1401,Services,2018,30990120,Sandwitch Shop,Business Email Compromise Attack
 1402,Inc. Wellpoint,2013,77182904,School,Worm VirusDDoS Attack
 1403,Auto,2020,29116459,Government,Malware
@@ -464,7 +464,7 @@
 1415,Inc. Advanced,2015,41919375,Bank,Cross-site Scripting Attack
 1416,Inc Universal,2013,10445832,Supermarket,Supply chain Attack
 1417,Inc Visteon,2012,36477831,Burget Franchaise,Zero-Day Exploit Attack
-"1418,""Inc. AdvancePCS,"",2015,41035502,Bank,DNS Tunneling Attack"
+1418,Inc. AdvancePCS,,2015,41035502,Bank,DNS Tunneling Attack
 1419,&,2021,76685598,Bank,Phishing
 142,Corporation The,2017,13663808,Burget Franchaise,Insider Attack
 1420,Interactive USFreighways,2010,97696000,Train Station,Malware
@@ -478,8 +478,8 @@
 1428,Intertechnology,2011,117181680,Orphanage,Cross-site Scripting Attack
 1429,Corporation AMERCO Ameren,2021,54547788,Supermarket,Drive-by Attack
 143,Water,2012,6329323,Kindergarden,Cryptojacking Attack
-"1430,""Industries,"",2013,33819500,Bank,Malware"
-"1431,""Inc. Amazon.com,"",2016,32052969,Kindergarden,Man In The Middle Attack"
+1430,Industries,,2013,33819500,Bank,Malware
+1431,Inc. Amazon.com,,2016,32052969,Kindergarden,Man In The Middle Attack
 1432,Industries,2015,119301352,Local Shop,Zero-Day Exploit Attack
 1433,Inc. Apartment,2022,35124263,Non-Profit,DNS Tunneling Attack
 1434,Inc. UAL,2014,18935970,Supermarket,SQL Injection Attack
@@ -490,10 +490,10 @@
 1439,Allstate,2015,21482831,Local Shop,Supply chain Attack
 144,Company American,2017,5084640,Hardware Store,DoS Attack
 1440,Incorporated Ace,2021,52004160,Hardware Store,Spoofing
-"1441,""Group,"",2012,122143483,Government,Worm VirusDDoS Attack"
+1441,Group,,2012,122143483,Government,Worm VirusDDoS Attack
 1442,Inc. American,2016,113672860,Shooting Range,Worm VirusDDoS Attack
 1443,Hardware,2014,118766115,Hardware Store,Insider Attack
-"1444,""Devices,"",2016,136574964,Burget Franchaise,Malware"
+1444,Devices,,2016,136574964,Burget Franchaise,Malware
 1445,Markets,2015,36828715,Orphanage,Code Injections Attack
 1446,Greetings,2011,35188410,Supermarket,51% Attack
 1447,Financial,2018,45790315,Supermarket,Cryptojacking Attack
@@ -505,12 +505,12 @@
 1452,Allstate,2021,585156,Supermarket,Man In The Middle Attack
 1453,Hardware,2017,109445772,Burget Franchaise,SQL Injection Attack
 1454,Allstate,2020,35148996,Government,Insider Attack
-"1455,""Technologies,"",2013,82197315,Sandwitch Shop,Code Injections Attack"
+1455,Technologies,,2013,82197315,Sandwitch Shop,Code Injections Attack
 1456,Computer,2013,87214400,Supermarket,Supply chain Attack
-"1457,""Services,"",2010,142985609,Government,Cross-site Scripting Attack"
+1457,Services,,2010,142985609,Government,Cross-site Scripting Attack
 1458,Inc. Agway,2019,47027790,School,Worm VirusDDoS Attack
 1459,Products,2013,88357040,Pizzeria,Zero-Day Exploit Attack
-"146,""Group,"",2021,4417522,Non-Profit,Zero-Day Exploit Attack"
+146,Group,,2021,4417522,Non-Profit,Zero-Day Exploit Attack
 1460,Inc Western,2023,46787160,Hardware Store,Cross-site Scripting Attack
 1461,Inc Wal-Mart,2019,140310057,Hardware Store,Man In The Middle Attack
 1462,Corporation The,2011,42637768,Local Shop,Malware
@@ -530,7 +530,7 @@
 1475,Inc. AMC,2020,82411200,Kindergarden,Cross-site Scripting Attack
 1476,Inc United,2014,122646744,Pizzeria,Zero-Day Exploit Attack
 1477,Company Advance,2010,147671937,Supermarket,SQL Injection Attack
-"1478,""Inc. AdvancePCS,"",2016,119415010,Pizzeria,DNS Tunneling Attack"
+1478,Inc. AdvancePCS,,2016,119415010,Pizzeria,DNS Tunneling Attack
 1479,Corporation The,2022,64385307,Government,DNS Tunneling Attack
 148,Inc USA,2018,821844,Bank,Cryptojacking Attack
 1480,Inc Walt,2015,15239560,Shooting Range,Drive-by Attack
@@ -548,7 +548,7 @@
 1491,Inc Universal,2021,135691437,Sandwitch Shop,DNS Tunneling Attack
 1492,Health,2016,113760524,Government,Business Email Compromise Attack
 1493,Corporation TRW,2022,94020182,Burget Franchaise,DNS Tunneling Attack
-"1494,""Energy,"",2016,130300704,Sandwitch Shop,Insider Attack"
+1494,Energy,,2016,130300704,Sandwitch Shop,Insider Attack
 1495,Corporation Unova,2020,57336240,Orphanage,Drive-by Attack
 1496,Co Wallace,2021,53160360,Government,Insider Attack
 1497,Corporation TRW,2012,22474461,Non-Profit,51% Attack
@@ -570,12 +570,12 @@
 1510,Inc. United,2015,107649410,Small Business,Man In The Middle Attack
 1511,Corporation Unova,2020,147435825,Pizzeria,Spoofing
 1512,Inc Universal,2021,60501168,Bank,Code Injections Attack
-"1513,""Parts,"",2013,123171817,Government,DNS Tunneling Attack"
+1513,Parts,,2013,123171817,Government,DNS Tunneling Attack
 1514,Company American,2015,132288778,Pizzeria,51% Attack
 1515,Foods,2021,110216250,Shooting Range,Cryptojacking Attack
 1516,Corporation Allied,2020,129654384,Kindergarden,Code Injections Attack
 1517,Corporation Value,2013,26589976,Supermarket,Identity-Based Attack
-"1518,""Chemicals,"",2013,149099478,School,Drive-by Attack"
+1518,Chemicals,,2013,149099478,School,Drive-by Attack
 1519,Company WGL,2017,51307263,Kindergarden,SQL Injection Attack
 152,Inc. Abbott,2021,1855008,Supermarket,DNS Tunneling Attack
 1520,Inc Viad,2019,88707200,Shooting Range,Phishing
@@ -599,7 +599,7 @@
 1537,Entertainment,2020,35417091,Local Shop,Code Injections Attack
 1538,Energy,2014,103259782,Kindergarden,Zero-Day Exploit Attack
 1539,3Com,2023,42525648,Hardware Store,Insider Attack
-"154,""Incorporated Allergan,"",2010,12597816,Burget Franchaise,Phishing"
+154,Incorporated Allergan,,2010,12597816,Burget Franchaise,Phishing
 1540,Parcel,2021,43754480,Burget Franchaise,Insider Attack
 1541,Inc. AK,2012,121350668,Government,Zero-Day Exploit Attack
 1542,Services,2013,86554002,Bank,Phishing
@@ -613,17 +613,17 @@
 155,Products,2016,13635505,Small Business,Identity-Based Attack
 1550,Corporation URS,2021,146854750,Train Station,Spoofing
 1551,Inc United,2013,144523731,Supermarket,Cryptojacking Attack
-"1552,""Incorporated Allergan,"",2014,24299664,Sandwitch Shop,DoS Attack"
-"1553,""Inc. Airborne,"",2023,119102676,Government,Cryptojacking Attack"
+1552,Incorporated Allergan,,2014,24299664,Sandwitch Shop,DoS Attack
+1553,Inc. Airborne,,2023,119102676,Government,Cryptojacking Attack
 1554,Service,2019,10110324,Bank,Zero-Day Exploit Attack
 1555,Defense,2015,94638855,Pizzeria,DoS Attack
 1556,Corporation Amerada,2010,20260676,Small Business,Insider Attack
 1557,Holdings,2019,60386688,School,Worm VirusDDoS Attack
-"1558,""Devices,"",2022,142983892,Supermarket,DNS Tunneling Attack"
+1558,Devices,,2022,142983892,Supermarket,DNS Tunneling Attack
 1559,Inc. American,2020,5200824,Supermarket,Identity-Based Attack
 156,Stores,2020,15282696,Government,Cross-site Scripting Attack
 1560,Energy,2014,12634440,Orphanage,Drive-by Attack
-"1561,""Parts,"",2020,38903242,Supermarket,Cross-site Scripting Attack"
+1561,Parts,,2020,38903242,Supermarket,Cross-site Scripting Attack
 1562,Corp 3M,2021,33647042,Non-Profit,Drive-by Attack
 1563,Materials,2013,74664510,Burget Franchaise,Worm VirusDDoS Attack
 1564,Financial,2012,1435752,Burget Franchaise,Malware
@@ -669,7 +669,7 @@
 160,Inc. American,2014,11005760,Supermarket,Cross-site Scripting Attack
 1600,International,2010,137953600,Supermarket,Insider Attack
 1601,Corporation Alaska,2021,81976003,Non-Profit,Supply chain Attack
-"1602,""Company,"",2014,150068952,Non-Profit,SQL Injection Attack"
+1602,Company,,2014,150068952,Non-Profit,SQL Injection Attack
 1603,Grocers,2019,157691919,School,Phishing
 1604,Co Walter,2016,135416096,Supermarket,Supply chain Attack
 1605,Products,2020,50024640,Bank,Insider Attack
@@ -680,7 +680,7 @@
 161,Incorporated AGCO,2010,9785741,Local Shop,Spoofing
 1610,Inc. The,2010,80406620,Supermarket,Insider Attack
 1611,and,2016,114938406,Train Station,DNS Tunneling Attack
-"1612,""Chemicals,"",2010,157402128,Small Business,Man In The Middle Attack"
+1612,Chemicals,,2010,157402128,Small Business,Man In The Middle Attack
 1613,Inc United,2022,148450842,Hardware Store,Drive-by Attack
 1614,Inc. American,2016,52768116,Train Station,Supply chain Attack
 1615,Standard,2013,6860520,Government,Insider Attack
@@ -689,7 +689,7 @@
 1618,Allstate,2011,63622996,Hospital,SQL Injection Attack
 1619,Department,2012,57796681,School,Cross-site Scripting Attack
 162,Inc. AK,2021,10088712,Orphanage,51% Attack
-"1620,""Group,"",2017,119575440,Bank,Code Injections Attack"
+1620,Group,,2017,119575440,Bank,Code Injections Attack
 1621,Inc Unocal,2010,61787657,Pizzeria,Insider Attack
 1622,Inc United,2016,86950554,Orphanage,Phishing
 1623,Western,2022,78394146,Kindergarden,51% Attack
@@ -698,14 +698,14 @@
 1626,Corporation Viacom,2017,87462540,Bank,Drive-by Attack
 1627,Inc Walt,2017,76342094,Supermarket,51% Attack
 1628,Inc UnumProvident,2018,101953500,Sandwitch Shop,Business Email Compromise Attack
-"1629,""Services,"",2010,7807797,Small Business,Man In The Middle Attack"
+1629,Services,,2010,7807797,Small Business,Man In The Middle Attack
 163,Defense,2020,3178663,Orphanage,Code Injections Attack
 1630,Materials,2019,125855560,Hospital,Drive-by Attack
 1631,Inc. Apartment,2015,88180015,Train Station,Spoofing
 1632,Computer,2015,24300480,Sandwitch Shop,Code Injections Attack
 1633,Western,2023,160648008,Government,Business Email Compromise Attack
 1634,Inc Varco,2017,9741908,Shooting Range,Cross-site Scripting Attack
-"1635,""Inc. Amazon.com,"",2017,133697220,Hospital,Worm VirusDDoS Attack"
+1635,Inc. Amazon.com,,2017,133697220,Hospital,Worm VirusDDoS Attack
 1636,Forest,2023,73444948,Burget Franchaise,Drive-by Attack
 1637,Inc Washington,2020,27894480,Pizzeria,Man In The Middle Attack
 1638,Inc Weyerhauser,2011,56322630,Hospital,Worm VirusDDoS Attack
@@ -721,25 +721,25 @@
 1647,Allstate,2017,29921049,Supermarket,DoS Attack
 1648,Parcel,2022,60265712,Shooting Range,Malware
 1649,International,2011,25292362,Shooting Range,Code Injections Attack
-"165,""Energy,"",2017,13356255,Bank,Drive-by Attack"
-"1650,""Corporation Administaff,"",2014,26150850,Local Shop,DNS Tunneling Attack"
+165,Energy,,2017,13356255,Bank,Drive-by Attack
+1650,Corporation Administaff,,2014,26150850,Local Shop,DNS Tunneling Attack
 1651,Manufacturing,2012,59404631,Shooting Range,Business Email Compromise Attack
 1652,Computer,2022,40239416,School,Worm VirusDDoS Attack
-"1653,""Inc. Airgas,"",2012,134696358,Local Shop,Zero-Day Exploit Attack"
+1653,Inc. Airgas,,2012,134696358,Local Shop,Zero-Day Exploit Attack
 1654,Corporation American,2010,39884556,Shooting Range,Supply chain Attack
 1655,Company W.R.,2017,74011600,Government,Identity-Based Attack
-"1656,""Parts,"",2012,76154472,Government,Spoofing"
+1656,Parts,,2012,76154472,Government,Spoofing
 1657,Company WGL,2020,7784586,Local Shop,Insider Attack
-"1658,""Incorporated Allergan,"",2014,132154206,Pizzeria,Insider Attack"
+1658,Incorporated Allergan,,2014,132154206,Pizzeria,Insider Attack
 1659,Resources,2017,68320938,Local Shop,Spoofing
 166,&,2017,6293226,Sandwitch Shop,Supply chain Attack
-"1660,""Devices,"",2018,56144520,Non-Profit,Man In The Middle Attack"
+1660,Devices,,2018,56144520,Non-Profit,Man In The Middle Attack
 1661,Inc. Alcoa,2014,152081160,Sandwitch Shop,Supply chain Attack
 1662,Resources,2015,100587564,Supermarket,Spoofing
 1663,City,2014,154925080,Government,Phishing
 1664,Corporation Allegheny,2018,117260416,School,Identity-Based Attack
 1665,Inc Watsco,2017,47385900,Burget Franchaise,Identity-Based Attack
-"1666,""Group,"",2016,54413226,Small Business,Business Email Compromise Attack"
+1666,Group,,2016,54413226,Small Business,Business Email Compromise Attack
 1667,Inc. AMC,2018,103999129,School,Malware
 1668,Products,2013,82122312,Hardware Store,Worm VirusDDoS Attack
 1669,Western,2023,78558161,Small Business,DNS Tunneling Attack
@@ -747,13 +747,13 @@
 1670,Corporation Union,2010,72938920,Train Station,Cryptojacking Attack
 1671,Corporation The,2010,111651207,Sandwitch Shop,Insider Attack
 1672,Energy,2013,107409280,Bank,Phishing
-"1673,""Services,"",2020,128740696,Orphanage,Insider Attack"
+1673,Services,,2020,128740696,Orphanage,Insider Attack
 1674,Inc VF,2018,92270880,Burget Franchaise,Worm VirusDDoS Attack
 1675,Corporation US,2013,23192050,Non-Profit,Malware
 1676,Services,2016,161893220,School,Supply chain Attack
 1677,Incorporated AGCO,2011,9912747,Kindergarden,SQL Injection Attack
 1678,Corp Viasystems,2010,24644786,Government,DoS Attack
-"1679,""Outfitters,"",2021,147283559,Pizzeria,Insider Attack"
+1679,Outfitters,,2021,147283559,Pizzeria,Insider Attack
 168,Industries,2020,1568112,Non-Profit,Cross-site Scripting Attack
 1680,Corporation Alaska,2014,119975520,Government,Supply chain Attack
 1681,Holding,2011,26716133,Government,Cross-site Scripting Attack
@@ -762,7 +762,7 @@
 1684,Management,2018,40148244,Hospital,Zero-Day Exploit Attack
 1685,International,2017,27077950,Orphanage,Drive-by Attack
 1686,Co Walter,2022,43846116,Kindergarden,Man In The Middle Attack
-"1687,""Services,"",2015,150701397,Orphanage,51% Attack"
+1687,Services,,2015,150701397,Orphanage,51% Attack
 1688,Holding,2020,136839408,Government,Drive-by Attack
 1689,Holding,2011,19487682,Pizzeria,Cryptojacking Attack
 169,Communications,2016,9293986,Burget Franchaise,Man In The Middle Attack
@@ -770,12 +770,12 @@
 1691,Greetings,2015,41794756,Pizzeria,SQL Injection Attack
 1692,Markets,2018,88192116,Kindergarden,Supply chain Attack
 1693,Incorporated Ace,2022,32900069,Shooting Range,Business Email Compromise Attack
-"1694,""Group,"",2016,86814112,Non-Profit,Spoofing"
+1694,Group,,2016,86814112,Non-Profit,Spoofing
 1695,Corp. Adams,2015,159975795,Train Station,Supply chain Attack
 1696,International,2017,9148224,Small Business,Code Injections Attack
 1697,and,2016,25365059,Government,Spoofing
 1698,Companies,2019,111689346,Shooting Range,Insider Attack
-"1699,""Group,"",2018,146125893,Non-Profit,Spoofing"
+1699,Group,,2018,146125893,Non-Profit,Spoofing
 17,Berkley,2012,172601,Small Business,Phishing
 170,Corp Tyson,2014,11487580,Government,DNS Tunneling Attack
 1700,Inc. Adobe,2010,65312300,Non-Profit,Business Email Compromise Attack
@@ -786,7 +786,7 @@
 1705,Inc United,2021,147090350,Bank,Zero-Day Exploit Attack
 1706,Works,2015,88754650,Small Business,Code Injections Attack
 1707,Inc United,2016,88863006,Supermarket,DoS Attack
-"1708,""Inc. Airgas,"",2012,129659404,Burget Franchaise,DNS Tunneling Attack"
+1708,Inc. Airgas,,2012,129659404,Burget Franchaise,DNS Tunneling Attack
 1709,Inc Western,2011,35398517,Hardware Store,Man In The Middle Attack
 171,Inc Weatherford,2023,4978836,Non-Profit,Cryptojacking Attack
 1710,Incorporated Ace,2018,36289620,Small Business,Insider Attack
@@ -803,7 +803,7 @@
 1720,City,2011,39627080,Hospital,Zero-Day Exploit Attack
 1721,Inc. Alberto-Culver,2011,58052772,Pizzeria,Insider Attack
 1722,Information,2011,94072860,Government,Insider Attack
-"1723,""Stores,"",2015,160201094,Sandwitch Shop,SQL Injection Attack"
+1723,Stores,,2015,160201094,Sandwitch Shop,SQL Injection Attack
 1724,&,2012,70287480,Non-Profit,Phishing
 1725,Auto,2014,102639225,Orphanage,DNS Tunneling Attack
 1726,Water,2021,89510360,Bank,Insider Attack
@@ -821,19 +821,19 @@
 1737,Corporation ALLTEL,2021,13140405,Hospital,Cross-site Scripting Attack
 1738,Corporation W.R.,2016,144174052,Non-Profit,DoS Attack
 1739,City,2012,100976774,Orphanage,Cryptojacking Attack
-"174,""Group,"",2016,6863082,Train Station,Cross-site Scripting Attack"
+174,Group,,2016,6863082,Train Station,Cross-site Scripting Attack
 1740,Waste,2014,61350660,Orphanage,SQL Injection Attack
 1741,Health,2017,108488674,Kindergarden,Code Injections Attack
 1742,Inc. American,2010,117363766,Bank,DNS Tunneling Attack
 1743,Pacific,2012,171160857,Sandwitch Shop,Code Injections Attack
 1744,Manufacturing,2021,169675504,Orphanage,Cryptojacking Attack
-"1745,""Devices,"",2010,4906940,Hardware Store,DNS Tunneling Attack"
+1745,Devices,,2010,4906940,Hardware Store,DNS Tunneling Attack
 1746,Inc Washington,2011,168988356,Shooting Range,Malware
 1747,Auto,2021,171782510,Sandwitch Shop,SQL Injection Attack
 1748,Hardware,2012,139953620,Government,Worm VirusDDoS Attack
 1749,Axle,2016,937464,Orphanage,51% Attack
 175,Health,2016,9275875,Hardware Store,Spoofing
-"1750,""Group,"",2019,98409500,School,DoS Attack"
+1750,Group,,2019,98409500,School,DoS Attack
 1751,Technologies,2015,113286198,Supermarket,Malware
 1752,Inc. AMC,2017,75087216,Kindergarden,Business Email Compromise Attack
 1753,Corporation Valspar,2011,55820779,School,Man In The Middle Attack
@@ -850,7 +850,7 @@
 1763,Inc Universal,2017,78451737,Hardware Store,SQL Injection Attack
 1764,Inc. American,2014,24606036,Bank,Spoofing
 1765,Corp Unisys,2011,170924365,Bank,Phishing
-"1766,""Group,"",2018,149753268,Local Shop,Man In The Middle Attack"
+1766,Group,,2018,149753268,Local Shop,Man In The Middle Attack
 1767,Inc Watsco,2019,99284196,Train Station,DNS Tunneling Attack
 1768,Corporation The,2014,42617640,Small Business,SQL Injection Attack
 1769,International,2022,161046222,Orphanage,SQL Injection Attack
@@ -864,13 +864,13 @@
 1776,Incorporated Ace,2015,122178144,Sandwitch Shop,Spoofing
 1777,Communications,2016,119920845,Hospital,51% Attack
 1778,Energy,2013,10191496,Train Station,Supply chain Attack
-"1779,""Group,"",2013,154707177,Small Business,Supply chain Attack"
+1779,Group,,2013,154707177,Small Business,Supply chain Attack
 178,Inc Valero,2020,12541880,Supermarket,Drive-by Attack
 1780,&,2016,111876560,School,Insider Attack
 1781,Forest,2022,168616175,Pizzeria,51% Attack
 1782,Co W.W.,2015,116806536,Hospital,SQL Injection Attack
 1783,Service,2020,74418854,Local Shop,Insider Attack
-"1784,""Energy,"",2013,70011296,Burget Franchaise,Insider Attack"
+1784,Energy,,2013,70011296,Burget Franchaise,Insider Attack
 1785,Works,2013,130581675,Burget Franchaise,Identity-Based Attack
 1786,Inc. Advanced,2016,3213014,Hospital,DNS Tunneling Attack
 1787,West,2011,23690259,School,Phishing
@@ -901,13 +901,13 @@
 1809,Corporation TRW,2016,164219211,Orphanage,Cross-site Scripting Attack
 181,Axle,2017,7408330,Orphanage,51% Attack
 1810,Inc. American,2023,137274020,Orphanage,Spoofing
-"1811,""Group,"",2011,121190309,Orphanage,Phishing"
+1811,Group,,2011,121190309,Orphanage,Phishing
 1812,Digital,2012,125294364,Small Business,Identity-Based Attack
-"1813,""Inc. Airborne,"",2010,86355003,Small Business,Cross-site Scripting Attack"
+1813,Inc. Airborne,,2010,86355003,Small Business,Cross-site Scripting Attack
 1814,Inc. Apartment,2020,28967766,Shooting Range,Insider Attack
 1815,Industries,2010,65938950,Small Business,Cross-site Scripting Attack
 1816,Industries,2020,16400296,Shooting Range,Zero-Day Exploit Attack
-"1817,""Technologies,"",2010,41066017,Supermarket,Insider Attack"
+1817,Technologies,,2010,41066017,Supermarket,Insider Attack
 1818,Inc United,2016,75703338,Burget Franchaise,Zero-Day Exploit Attack
 1819,Corporation Universal,2011,145416317,Small Business,Worm VirusDDoS Attack
 182,Inc United,2017,3603054,Burget Franchaise,Identity-Based Attack
@@ -918,7 +918,7 @@
 1824,&,2019,125274144,Bank,Spoofing
 1825,Inc. Amkor,2022,779275,Burget Franchaise,Supply chain Attack
 1826,Inc Wells,2013,152922022,Train Station,Identity-Based Attack
-"1827,""Outfitters,"",2019,52493364,Kindergarden,Cross-site Scripting Attack"
+1827,Outfitters,,2019,52493364,Kindergarden,Cross-site Scripting Attack
 1828,Laboratories Abercrombie,2011,142002696,Government,Supply chain Attack
 1829,Energy,2020,121809571,Sandwitch Shop,DoS Attack
 183,Incorporated Unitrin,2011,8826273,Supermarket,DoS Attack
@@ -929,7 +929,7 @@
 1834,Hess,2014,172287794,Local Shop,Spoofing
 1835,Hess,2023,153701435,Government,Business Email Compromise Attack
 1836,Products,2016,93560724,Bank,Identity-Based Attack
-"1837,""Telecommunications,"",2012,146748745,Hardware Store,Supply chain Attack"
+1837,Telecommunications,,2012,146748745,Hardware Store,Supply chain Attack
 1838,Inc United,2015,182513400,Burget Franchaise,Malware
 1839,Alpine,2012,102287019,Government,Code Injections Attack
 184,Inc. Alleghany,2011,1837240,Shooting Range,Code Injections Attack
@@ -941,7 +941,7 @@
 1845,Grace,2015,71025120,School,Spoofing
 1846,Entertainment,2013,122980520,Government,Phishing
 1847,Airways,2014,57286552,Hardware Store,Identity-Based Attack
-"1848,""Inc. Amazon.com,"",2021,163329936,Bank,Malware"
+1848,Inc. Amazon.com,,2021,163329936,Bank,Malware
 1849,Service,2019,155874398,Train Station,Supply chain Attack
 185,Inc. AFLAC,2012,5206455,Government,Worm VirusDDoS Attack
 1850,Mutual,2019,104617500,Kindergarden,DNS Tunneling Attack
@@ -968,9 +968,9 @@
 187,Co Wallace,2010,12374725,Supermarket,Worm VirusDDoS Attack
 1870,Waste,2010,152468580,Supermarket,DNS Tunneling Attack
 1871,Grainger,2014,87974420,Non-Profit,Business Email Compromise Attack
-"1872,""Energy,"",2022,121612608,Sandwitch Shop,Phishing"
+1872,Energy,,2022,121612608,Sandwitch Shop,Phishing
 1873,Computer,2019,180049617,Shooting Range,DoS Attack
-"1874,""Corporation Administaff,"",2015,86181512,Bank,Zero-Day Exploit Attack"
+1874,Corporation Administaff,,2015,86181512,Bank,Zero-Day Exploit Attack
 1875,Inc Weis,2013,24294375,Bank,Business Email Compromise Attack
 1876,&,2016,96634636,Government,DoS Attack
 1877,Department,2012,151753573,Bank,Malware
@@ -981,7 +981,7 @@
 1881,Corporation Unova,2021,1403226,Train Station,Drive-by Attack
 1882,Inc Universal,2013,116674590,Non-Profit,Spoofing
 1883,&,2012,176135820,Hardware Store,SQL Injection Attack
-"1884,""Industries,"",2015,90220992,Train Station,DoS Attack"
+1884,Industries,,2015,90220992,Train Station,DoS Attack
 1885,Management,2018,176790380,Hardware Store,SQL Injection Attack
 1886,Inc Varco,2013,160030872,Small Business,Worm VirusDDoS Attack
 1887,Alpine,2014,20892864,Orphanage,DNS Tunneling Attack
@@ -1059,15 +1059,15 @@
 1951,Corporation Universal,2014,149559758,School,Cryptojacking Attack
 1952,Foods,2012,3747840,Hospital,Cross-site Scripting Attack
 1953,Grace,2014,64613052,Kindergarden,Drive-by Attack
-"1954,""Industries,"",2019,64253382,Train Station,Identity-Based Attack"
+1954,Industries,,2019,64253382,Train Station,Identity-Based Attack
 1955,Micro,2014,68153255,Supermarket,DoS Attack
 1956,Pacific,2022,61087836,Local Shop,Supply chain Attack
-"1957,""Outfitters,"",2016,112472704,Orphanage,Zero-Day Exploit Attack"
+1957,Outfitters,,2016,112472704,Orphanage,Zero-Day Exploit Attack
 1958,Corp. Adams,2011,155379048,Local Shop,Code Injections Attack
 1959,and,2021,108497256,Pizzeria,Insider Attack
 196,Group,2022,10722572,Local Shop,51% Attack
 1960,International,2019,29846880,Non-Profit,Man In The Middle Attack
-"1961,""Telecommunications,"",2023,66070012,Orphanage,Business Email Compromise Attack"
+1961,Telecommunications,,2023,66070012,Orphanage,Business Email Compromise Attack
 1962,Auto,2013,170295714,Train Station,Business Email Compromise Attack
 1963,Corporation Verizon,2018,139559485,Orphanage,Cross-site Scripting Attack
 1964,Inc. American,2013,135237112,School,Phishing
@@ -1075,7 +1075,7 @@
 1966,Intertechnology,2012,92160182,Pizzeria,Insider Attack
 1967,Corporation United,2016,38777438,Hospital,Cryptojacking Attack
 1968,Inc. TruServ,2011,111847344,Bank,Man In The Middle Attack
-"1969,""Inc. AdvancePCS,"",2018,181283861,Bank,Drive-by Attack"
+1969,Inc. AdvancePCS,,2018,181283861,Bank,Drive-by Attack
 197,Power,2018,8062619,Supermarket,DoS Attack
 1970,Companies,2015,36551380,Hardware Store,Worm VirusDDoS Attack
 1971,Systems,2019,157985505,Kindergarden,Worm VirusDDoS Attack
@@ -1087,7 +1087,7 @@
 1977,Hardware,2021,69463872,Burget Franchaise,DNS Tunneling Attack
 1978,Inc United,2014,89963396,Supermarket,Insider Attack
 1979,Corporation UGI,2011,33407499,Supermarket,Supply chain Attack
-"198,""Group,"",2018,15850296,Pizzeria,Phishing"
+198,Group,,2018,15850296,Pizzeria,Phishing
 1980,Inc United,2023,156974400,Burget Franchaise,Business Email Compromise Attack
 1981,Inc Wells,2018,89040007,Local Shop,Code Injections Attack
 1982,Inc. American,2023,158298376,Supermarket,Spoofing
@@ -1101,14 +1101,14 @@
 199,Inc United,2010,4796696,Bank,Worm VirusDDoS Attack
 1990,Computer,2020,120601960,Supermarket,Zero-Day Exploit Attack
 1991,Company Wendy,2019,178421474,School,Cross-site Scripting Attack
-"1992,""Inc. Amazon.com,"",2023,62568720,Hospital,Worm VirusDDoS Attack"
+1992,Inc. Amazon.com,,2023,62568720,Hospital,Worm VirusDDoS Attack
 1993,Inc Universal,2019,38797731,Non-Profit,Code Injections Attack
 1994,Gas,2017,128493360,Non-Profit,SQL Injection Attack
 1995,Corporation Walgreen,2012,87181500,Kindergarden,DNS Tunneling Attack
 1996,Inc. Advantica,2014,104255072,Hospital,SQL Injection Attack
 1997,Company A.G.,2018,26785761,Government,DNS Tunneling Attack
 1998,Air,2013,96695208,Bank,Drive-by Attack
-"1999,""Group,"",2011,139971979,Burget Franchaise,Supply chain Attack"
+1999,Group,,2011,139971979,Burget Franchaise,Supply chain Attack
 2,Networks,2010,115518,Bank,SQL Injection Attack
 20,Services,2022,1087960,Local Shop,DoS Attack
 200,Forest,2011,13275600,Non-Profit,Code Injections Attack
@@ -1120,7 +1120,7 @@
 204,Inc Vectren,2011,7677336,Orphanage,Identity-Based Attack
 205,Company WGL,2016,7111245,Government,Insider Attack
 206,Forest,2022,11840880,Government,Worm VirusDDoS Attack
-"207,""Group,"",2021,20292417,Small Business,Supply chain Attack"
+207,Group,,2021,20292417,Small Business,Supply chain Attack
 208,Industries,2017,448448,Train Station,Supply chain Attack
 209,Inc Vulcan,2011,540683,Government,Cross-site Scripting Attack
 21,Corporation Walgreen,2013,764778,Shooting Range,Cross-site Scripting Attack
@@ -1129,14 +1129,14 @@
 212,Department,2014,96036,Sandwitch Shop,SQL Injection Attack
 213,Axle,2018,7157013,School,Worm VirusDDoS Attack
 214,Holdings,2022,2092920,Non-Profit,Drive-by Attack
-"215,""Company,"",2013,1252590,Hospital,Drive-by Attack"
+215,Company,,2013,1252590,Hospital,Drive-by Attack
 216,Inc. AFLAC,2016,20794968,Local Shop,Malware
 217,Enterprises,2016,16260678,Supermarket,Worm VirusDDoS Attack
 218,Inc. Alliant,2022,16580862,Small Business,Code Injections Attack
 219,Corporation American,2020,15086472,Local Shop,Code Injections Attack
 22,Foods,2019,724878,Sandwitch Shop,Malware
 220,Materials,2018,18030980,Government,Phishing
-"221,""Inc. ALLETE,"",2016,9341670,Pizzeria,Identity-Based Attack"
+221,Inc. ALLETE,,2016,9341670,Pizzeria,Identity-Based Attack
 222,Stevens,2018,3666330,Orphanage,Zero-Day Exploit Attack
 223,AES,2021,2731750,Train Station,Business Email Compromise Attack
 224,Financial,2016,943264,Train Station,51% Attack
@@ -1145,14 +1145,14 @@
 227,Inc Valero,2014,15862533,Pizzeria,Man In The Middle Attack
 228,Inc. The,2021,160740,Pizzeria,Zero-Day Exploit Attack
 229,Pacific,2020,17040577,Orphanage,Drive-by Attack
-"23,""Services,"",2020,1886345,Non-Profit,DNS Tunneling Attack"
+23,Services,,2020,1886345,Non-Profit,DNS Tunneling Attack
 230,Inc. American,2019,3892750,Pizzeria,Code Injections Attack
 231,Grocers,2011,20911044,Bank,Zero-Day Exploit Attack
 232,Inc. American,2023,2417440,Government,Business Email Compromise Attack
 233,Corporation TRW,2013,22018034,Hospital,Worm VirusDDoS Attack
 234,Bancorp U.S.,2019,22050522,Orphanage,DoS Attack
 235,Inc Union,2018,17471780,Local Shop,Man In The Middle Attack
-"236,""Incorporated Allergan,"",2020,5082496,School,Spoofing"
+236,Incorporated Allergan,,2020,5082496,School,Spoofing
 237,Inc Western,2019,11615133,Burget Franchaise,Drive-by Attack
 238,Corporation Agilent,2014,7897792,Kindergarden,Identity-Based Attack
 239,International,2016,456968,Orphanage,Phishing
@@ -1173,12 +1173,12 @@
 252,Inc. Agway,2014,1964592,Shooting Range,Zero-Day Exploit Attack
 253,Co. ABM,2010,7307652,Orphanage,Phishing
 254,Corporation TRW,2011,22387560,Local Shop,SQL Injection Attack
-"255,""Outfitters,"",2017,12898920,Hospital,Identity-Based Attack"
+255,Outfitters,,2017,12898920,Hospital,Identity-Based Attack
 256,Inc. American,2018,20292608,Supermarket,Cryptojacking Attack
 257,Inc Western,2022,9811489,Kindergarden,Insider Attack
 258,Corporation Agilent,2013,18843288,School,Malware
 259,Inc Unocal,2019,22957242,Sandwitch Shop,Cross-site Scripting Attack
-"26,""Group,"",2015,1711866,Hardware Store,Code Injections Attack"
+26,Group,,2015,1711866,Hardware Store,Code Injections Attack
 260,Hardware,2014,1406080,Pizzeria,Zero-Day Exploit Attack
 261,Corp Unisys,2022,19785105,Sandwitch Shop,Drive-by Attack
 262,Inc Weatherford,2022,25663686,Kindergarden,Worm VirusDDoS Attack
@@ -1216,13 +1216,13 @@
 291,Stores,2021,11495664,Kindergarden,Spoofing
 292,Company WGL,2010,25640520,Bank,Worm VirusDDoS Attack
 293,Intertechnology,2016,24872184,Hardware Store,Business Email Compromise Attack
-"294,""Telecommunications,"",2015,12735198,Pizzeria,Zero-Day Exploit Attack"
+294,Telecommunications,,2015,12735198,Pizzeria,Zero-Day Exploit Attack
 295,Berkley,2018,20261485,Non-Profit,Cross-site Scripting Attack
 296,Corporation AMERCO Ameren,2016,23621984,Government,Zero-Day Exploit Attack
 297,Communications,2023,7805160,Supermarket,Cross-site Scripting Attack
-"298,""Devices,"",2019,6162044,Shooting Range,Man In The Middle Attack"
+298,Devices,,2019,6162044,Shooting Range,Man In The Middle Attack
 299,Alpine,2015,20478211,Local Shop,Code Injections Attack
-"3,""Inc. Airgas,"",2020,65940,Shooting Range,51% Attack"
+3,Inc. Airgas,,2020,65940,Shooting Range,51% Attack
 30,Company Air,2020,2104350,Supermarket,Phishing
 300,and,2015,19576500,Hardware Store,SQL Injection Attack
 301,Inc USA,2016,4909912,Government,Phishing
@@ -1230,7 +1230,7 @@
 303,Fargo,2023,14565513,Government,Code Injections Attack
 304,Industries,2022,4270592,Shooting Range,Zero-Day Exploit Attack
 305,International,2022,18300915,Non-Profit,Man In The Middle Attack
-"306,""Inc. ALLETE,"",2019,29377224,Small Business,Business Email Compromise Attack"
+306,Inc. ALLETE,,2019,29377224,Small Business,Business Email Compromise Attack
 307,Electric,2014,15414777,Hospital,SQL Injection Attack
 308,Corporation ALLTEL,2010,9340100,Pizzeria,Cross-site Scripting Attack
 309,Software,2014,29063922,Burget Franchaise,DNS Tunneling Attack
@@ -1241,12 +1241,12 @@
 313,Inc. Advantica,2019,6332303,Small Business,Worm VirusDDoS Attack
 314,Interactive USFreighways,2021,17205944,School,Zero-Day Exploit Attack
 315,Greetings,2016,11210850,Sandwitch Shop,Man In The Middle Attack
-"316,""Energy,"",2018,9199076,Hospital,51% Attack"
+316,Energy,,2018,9199076,Hospital,51% Attack
 317,Inc. Alcoa,2018,29431231,Hospital,Cross-site Scripting Attack
-"318,""Inc. Airgas,"",2014,29790240,Supermarket,51% Attack"
+318,Inc. Airgas,,2014,29790240,Supermarket,51% Attack
 319,Grace,2017,39556,Bank,Zero-Day Exploit Attack
 32,Auto,2015,1244192,Small Business,DoS Attack
-"320,""Inc. ALLETE,"",2014,25733120,Sandwitch Shop,Man In The Middle Attack"
+320,Inc. ALLETE,,2014,25733120,Sandwitch Shop,Man In The Middle Attack
 321,Financial,2021,7569180,School,Man In The Middle Attack
 322,Corporation Allegheny,2010,24604342,Hardware Store,Malware
 323,Rentals,2014,1918620,Non-Profit,Cross-site Scripting Attack
@@ -1256,11 +1256,11 @@
 327,Incorporated Unitrin,2019,16339863,Local Shop,Insider Attack
 328,Group,2013,7939896,Kindergarden,Man In The Middle Attack
 329,Corporation Walgreen,2014,25863348,School,Drive-by Attack
-"33,""Inc. Airgas,"",2020,835527,School,Cross-site Scripting Attack"
-"330,""Services,"",2021,29567010,Orphanage,Cryptojacking Attack"
+33,Inc. Airgas,,2020,835527,School,Cross-site Scripting Attack
+330,Services,,2021,29567010,Orphanage,Cryptojacking Attack
 331,Services,2020,2221010,School,DoS Attack
 332,Electric,2016,6053356,Burget Franchaise,Insider Attack
-"333,""Energy,"",2020,31105530,Hospital,Insider Attack"
+333,Energy,,2020,31105530,Hospital,Insider Attack
 334,Department,2019,9019670,Burget Franchaise,Code Injections Attack
 335,Corporation America,2020,11979935,Bank,Drive-by Attack
 336,Inc. TruServ,2020,31509072,Hospital,Business Email Compromise Attack
@@ -1278,7 +1278,7 @@
 347,Disney,2017,29617838,Train Station,Zero-Day Exploit Attack
 348,Inc. American,2023,19249968,Burget Franchaise,Phishing
 349,Bancorp U.S.,2012,991160,Burget Franchaise,Cross-site Scripting Attack
-"35,""Group,"",2018,1990765,Shooting Range,Cryptojacking Attack"
+35,Group,,2018,1990765,Shooting Range,Cryptojacking Attack
 350,Inc. Allmerica,2017,10374700,Non-Profit,Zero-Day Exploit Attack
 351,Post,2012,13481910,Burget Franchaise,DNS Tunneling Attack
 352,Markets,2011,89760,Train Station,Worm VirusDDoS Attack
@@ -1289,7 +1289,7 @@
 357,Inc. Adobe,2016,32447373,Hardware Store,Malware
 358,Fargo,2013,2721516,Sandwitch Shop,Malware
 359,Co Walter,2014,33671687,Hospital,SQL Injection Attack
-"36,""Corporation Administaff,"",2010,351504,Shooting Range,Cryptojacking Attack"
+36,Corporation Administaff,,2010,351504,Shooting Range,Cryptojacking Attack
 360,Company Advance,2016,7875000,Pizzeria,Spoofing
 361,Inc. Acterna,2013,2957312,Kindergarden,Spoofing
 362,Inc Weatherford,2010,7247964,Bank,Supply chain Attack
@@ -1356,7 +1356,7 @@
 417,Inc USA,2019,32209914,Supermarket,DNS Tunneling Attack
 418,Inc. Advantica,2021,32471494,Train Station,DoS Attack
 419,Greetings,2013,20089374,Pizzeria,Drive-by Attack
-"42,""Group,"",2014,2969316,Train Station,Zero-Day Exploit Attack"
+42,Group,,2014,2969316,Train Station,Zero-Day Exploit Attack
 420,Co. ABM,2011,29815380,Sandwitch Shop,Identity-Based Attack
 421,Corporation UGI,2019,10632355,Hardware Store,Code Injections Attack
 422,Fargo,2022,10317056,School,51% Attack
@@ -1367,7 +1367,7 @@
 427,Company Advance,2023,17682924,Shooting Range,Zero-Day Exploit Attack
 428,Inc. Adelphia,2011,41192004,Burget Franchaise,Malware
 429,Inc USA,2010,7664514,Orphanage,DoS Attack
-"43,""Industries,"",2015,3862518,Bank,Cryptojacking Attack"
+43,Industries,,2015,3862518,Bank,Cryptojacking Attack
 430,Corporation Allegheny,2018,14508200,Non-Profit,Business Email Compromise Attack
 431,Inc. The,2014,15762963,Sandwitch Shop,Phishing
 432,Corporation Unified,2013,28472256,Small Business,SQL Injection Attack
@@ -1378,7 +1378,7 @@
 437,Defense,2012,30527509,Government,Drive-by Attack
 438,Holdings,2021,25448238,Train Station,Zero-Day Exploit Attack
 439,Inc. Alliant,2019,40437168,Local Shop,Cross-site Scripting Attack
-"44,""Industries,"",2021,3213848,Burget Franchaise,Malware"
+44,Industries,,2021,3213848,Burget Franchaise,Malware
 440,Grainger,2017,43499720,Small Business,51% Attack
 441,Corporation URS,2017,2454606,Non-Profit,Identity-Based Attack
 442,Company W.R.,2017,21123180,Local Shop,DoS Attack
@@ -1400,18 +1400,18 @@
 457,Inc Universal,2018,38406280,Orphanage,Insider Attack
 458,Inc. Amkor,2016,5136928,Government,51% Attack
 459,Technologies,2023,33789285,Pizzeria,Malware
-"46,""Inc. Airgas,"",2013,379684,Shooting Range,Business Email Compromise Attack"
+46,Inc. Airgas,,2013,379684,Shooting Range,Business Email Compromise Attack
 460,Incorporated AGCO,2015,38819860,Burget Franchaise,Supply chain Attack
 461,Stores,2010,37016456,Shooting Range,Cryptojacking Attack
 462,Inc Viad,2014,25520418,Hardware Store,Supply chain Attack
 463,Works,2015,13343660,School,Business Email Compromise Attack
 464,Pacific,2012,22674752,Hardware Store,Identity-Based Attack
 465,Company American,2010,4498875,Orphanage,Man In The Middle Attack
-"466,""Inc. ALLETE,"",2022,45788694,School,Code Injections Attack"
+466,Inc. ALLETE,,2022,45788694,School,Code Injections Attack
 467,Conversion,2017,40043849,Bank,Spoofing
 468,Company American,2011,11832444,Pizzeria,Malware
 469,Incorporated Unitrin,2011,20532351,Kindergarden,Cryptojacking Attack
-"47,""Services,"",2022,3571953,Sandwitch Shop,Insider Attack"
+47,Services,,2022,3571953,Sandwitch Shop,Insider Attack
 470,Berkley,2019,8723200,Kindergarden,Code Injections Attack
 471,Industries,2018,34428216,Hardware Store,Spoofing
 472,Mutual,2020,30685664,Supermarket,Man In The Middle Attack
@@ -1420,7 +1420,7 @@
 475,Products,2020,34239425,School,Insider Attack
 476,Co Walter,2015,2023476,Small Business,Business Email Compromise Attack
 477,Co W.W.,2021,36874962,Kindergarden,Insider Attack
-"478,""Inc. Airborne,"",2010,31032238,Local Shop,Code Injections Attack"
+478,Inc. Airborne,,2010,31032238,Local Shop,Code Injections Attack
 479,Company American,2021,27618182,Government,Supply chain Attack
 48,Corporation USG,2019,3708480,Non-Profit,Cross-site Scripting Attack
 480,Inc Vectren,2013,754080,Orphanage,Spoofing
@@ -1432,7 +1432,7 @@
 486,Holding,2017,12945096,Sandwitch Shop,51% Attack
 487,Inc. Abbott,2012,28054122,Bank,Code Injections Attack
 488,Computer,2021,19282344,Kindergarden,Business Email Compromise Attack
-"489,""Corporation Administaff,"",2019,22371750,School,Malware"
+489,Corporation Administaff,,2019,22371750,School,Malware
 49,Inc. Alberto-Culver,2020,4625600,Shooting Range,DNS Tunneling Attack
 490,Inc. Adelphia,2020,8426530,Bank,Identity-Based Attack
 491,Health,2014,8302319,School,Worm VirusDDoS Attack
@@ -1454,7 +1454,7 @@
 505,Disney,2021,23343120,Kindergarden,51% Attack
 506,Corporation Union,2019,39044984,Train Station,Zero-Day Exploit Attack
 507,Inc. Acterna,2023,11547939,Shooting Range,DNS Tunneling Attack
-"508,""Incorporated Allergan,"",2015,6591808,Supermarket,Business Email Compromise Attack"
+508,Incorporated Allergan,,2015,6591808,Supermarket,Business Email Compromise Attack
 509,Management,2013,509000,Local Shop,51% Attack
 51,Inc. AMC,2011,1353999,Non-Profit,DoS Attack
 510,Health,2017,17853570,Non-Profit,Phishing
@@ -1473,17 +1473,17 @@
 522,Corp Viasystems,2017,6974964,Orphanage,SQL Injection Attack
 523,Group,2020,44974339,Pizzeria,Cryptojacking Attack
 524,Oncology,2014,14645800,Burget Franchaise,Drive-by Attack
-"525,""Group,"",2017,37275,Hospital,Business Email Compromise Attack"
+525,Group,,2017,37275,Hospital,Business Email Compromise Attack
 526,Corporation Valspar,2013,35267774,Orphanage,DoS Attack
-"527,""Inc. Amazon.com,"",2011,41349474,Kindergarden,DNS Tunneling Attack"
+527,Inc. Amazon.com,,2011,41349474,Kindergarden,DNS Tunneling Attack
 528,Hardware,2023,50511648,Pizzeria,Spoofing
 529,Co Wallace,2011,15750446,Pizzeria,Identity-Based Attack
-"53,""Group,"",2018,952251,Pizzeria,SQL Injection Attack"
-"530,""Inc. ALLETE,"",2015,50091360,Hardware Store,DNS Tunneling Attack"
+53,Group,,2018,952251,Pizzeria,SQL Injection Attack
+530,Inc. ALLETE,,2015,50091360,Hardware Store,DNS Tunneling Attack
 531,Inc. AFLAC,2011,37240623,School,DNS Tunneling Attack
 532,Inc Wells,2013,8386980,Supermarket,Cryptojacking Attack
 533,Digital,2021,34509618,Bank,Code Injections Attack
-"534,""Outfitters,"",2014,17338446,Pizzeria,51% Attack"
+534,Outfitters,,2014,17338446,Pizzeria,51% Attack
 535,Inc United,2017,32814225,Non-Profit,DoS Attack
 536,Inc Union,2017,15473248,School,SQL Injection Attack
 537,Bancorp U.S.,2012,41200788,Government,Insider Attack
@@ -1513,7 +1513,7 @@
 559,Inc. Adobe,2018,3476980,Government,Code Injections Attack
 56,Planters,2018,228200,Small Business,DoS Attack
 560,Grocers,2013,1210720,Orphanage,DoS Attack
-"561,""Parts,"",2023,16549500,Small Business,Zero-Day Exploit Attack"
+561,Parts,,2023,16549500,Small Business,Zero-Day Exploit Attack
 562,Corporation TRW,2012,32509452,Kindergarden,Identity-Based Attack
 563,Eagle,2015,26993598,School,Cross-site Scripting Attack
 564,Inc UnumProvident,2017,12046476,Hardware Store,Supply chain Attack
@@ -1523,12 +1523,12 @@
 568,Inc. Adobe,2016,39114752,Pizzeria,Identity-Based Attack
 569,Department,2019,3553974,Hardware Store,Phishing
 57,Inc. Affiliated,2012,5115750,Supermarket,Identity-Based Attack
-"570,""Energy,"",2020,629850,Hospital,Man In The Middle Attack"
+570,Energy,,2020,629850,Hospital,Man In The Middle Attack
 571,Co. ABM,2011,18564923,Burget Franchaise,Supply chain Attack
 572,Air,2018,52177840,Local Shop,Code Injections Attack
 573,Service,2014,46093839,Bank,Drive-by Attack
 574,Co Wallace,2022,45064740,Bank,Cross-site Scripting Attack
-"575,""Parts,"",2014,55463925,Non-Profit,Man In The Middle Attack"
+575,Parts,,2014,55463925,Non-Profit,Man In The Middle Attack
 576,Group,2022,46717632,Local Shop,DoS Attack
 577,Department,2015,31092222,Hospital,Code Injections Attack
 578,Inc. Amkor,2017,12111990,Non-Profit,Drive-by Attack
@@ -1539,7 +1539,7 @@
 582,Service,2011,38896806,Local Shop,Code Injections Attack
 583,Corporation UST,2018,1122858,Hospital,Insider Attack
 584,Corporation Valspar,2013,5462152,Shooting Range,DNS Tunneling Attack
-"585,""Group,"",2022,35716590,School,SQL Injection Attack"
+585,Group,,2022,35716590,School,SQL Injection Attack
 586,Inc. Apartment,2017,34339014,Non-Profit,Business Email Compromise Attack
 587,Bancorp U.S.,2013,31332299,Train Station,Cross-site Scripting Attack
 588,Co. ABM,2011,31733772,Train Station,51% Attack
@@ -1553,7 +1553,7 @@
 595,Corporation Value,2022,12627090,School,DoS Attack
 596,Markets,2023,57465724,Orphanage,Identity-Based Attack
 597,Alpine,2015,52922856,Hardware Store,Malware
-"598,""Industries,"",2022,23522330,Non-Profit,SQL Injection Attack"
+598,Industries,,2022,23522330,Non-Profit,SQL Injection Attack
 599,Energy,2021,45778575,Hardware Store,Supply chain Attack
 6,Co. Waste,2018,134280,Bank,Identity-Based Attack
 60,&,2012,3259320,Bank,Man In The Middle Attack
@@ -1566,7 +1566,7 @@
 606,Inc. Advantica,2014,45992976,Non-Profit,Identity-Based Attack
 607,Manufacturing,2018,40272629,Hardware Store,Phishing
 608,Software,2015,39070080,Shooting Range,Cryptojacking Attack
-"609,""Inc. Airgas,"",2017,34933458,Local Shop,Zero-Day Exploit Attack"
+609,Inc. Airgas,,2017,34933458,Local Shop,Zero-Day Exploit Attack
 61,Post,2015,5078250,Pizzeria,Identity-Based Attack
 610,Holdings,2012,24885560,Sandwitch Shop,SQL Injection Attack
 611,Inc. TruServ,2016,37687091,School,SQL Injection Attack
@@ -1586,16 +1586,16 @@
 624,Inc. Agway,2011,48413040,Small Business,Insider Attack
 625,Rentals,2017,32911875,Small Business,Cross-site Scripting Attack
 626,Inc. American,2019,35331440,Orphanage,DoS Attack
-"627,""Incorporated Allergan,"",2015,17483268,Shooting Range,Worm VirusDDoS Attack"
+627,Incorporated Allergan,,2015,17483268,Shooting Range,Worm VirusDDoS Attack
 628,Parcel,2011,62457112,Government,Code Injections Attack
-"629,""Corporation Administaff,"",2015,57704460,Pizzeria,Malware"
+629,Corporation Administaff,,2015,57704460,Pizzeria,Malware
 63,Water,2012,4024755,Hardware Store,Code Injections Attack
 630,Industries,2012,25244730,School,Spoofing
 631,Oncology,2015,37217642,Orphanage,Identity-Based Attack
-"632,""Group,"",2017,53062088,Supermarket,Identity-Based Attack"
+632,Group,,2017,53062088,Supermarket,Identity-Based Attack
 633,Communications,2012,43478871,Burget Franchaise,DoS Attack
 634,Products,2020,24802714,Sandwitch Shop,Insider Attack
-"635,""Inc. AdvancePCS,"",2013,61333380,Hardware Store,Supply chain Attack"
+635,Inc. AdvancePCS,,2013,61333380,Hardware Store,Supply chain Attack
 636,Company W.R.,2018,45335352,Train Station,Worm VirusDDoS Attack
 637,Energy,2011,63440741,Bank,SQL Injection Attack
 638,Enterprises,2019,26396612,School,Man In The Middle Attack
@@ -1619,7 +1619,7 @@
 654,Inc. American,2010,64504674,Small Business,Spoofing
 655,Group,2016,32764410,Pizzeria,51% Attack
 656,&,2012,15484224,Hardware Store,DoS Attack
-"657,""Inc. Airgas,"",2013,27832491,Local Shop,Malware"
+657,Inc. Airgas,,2013,27832491,Local Shop,Malware
 658,Coors,2018,32580212,Orphanage,Supply chain Attack
 659,Services,2014,44211651,Hospital,Code Injections Attack
 66,Works,2022,5804106,Hospital,Cross-site Scripting Attack
@@ -1629,7 +1629,7 @@
 663,Auto,2017,65837226,Burget Franchaise,51% Attack
 664,Stores,2015,37497408,Kindergarden,Malware
 665,Parcel,2020,65291695,Hardware Store,Insider Attack
-"666,""Group,"",2020,64684584,Small Business,Identity-Based Attack"
+666,Group,,2020,64684584,Small Business,Identity-Based Attack
 667,Inc Western,2010,16915787,Kindergarden,Drive-by Attack
 668,Co. Waste,2016,7947196,Train Station,Malware
 669,West,2022,27429,Supermarket,DNS Tunneling Attack
@@ -1666,8 +1666,8 @@
 697,Corporation AMERCO Ameren,2010,61327636,Small Business,Business Email Compromise Attack
 698,Corporation Allegheny,2022,20764802,Government,Worm VirusDDoS Attack
 699,Systems,2021,41967960,Small Business,Identity-Based Attack
-"7,""Holdings,"",2016,352772,Hardware Store,Drive-by Attack"
-"70,""Energy,"",2018,5123090,Hardware Store,Supply chain Attack"
+7,Holdings,,2016,352772,Hardware Store,Drive-by Attack
+70,Energy,,2018,5123090,Hardware Store,Supply chain Attack
 700,Group,2017,57054200,Orphanage,Insider Attack
 701,Inc TXU,2021,50723659,Small Business,Identity-Based Attack
 702,Corporation United,2021,58220370,Pizzeria,Malware
@@ -1679,7 +1679,7 @@
 708,Inc Valero,2020,69068232,Hospital,SQL Injection Attack
 709,Corporation Aetna,2016,29487310,Non-Profit,Identity-Based Attack
 71,Inc Vulcan,2019,2389931,Small Business,Cryptojacking Attack
-"710,""Incorporated Allergan,"",2020,59628640,Non-Profit,Cross-site Scripting Attack"
+710,Incorporated Allergan,,2020,59628640,Non-Profit,Cross-site Scripting Attack
 711,Inc Vishay,2023,27036486,Hospital,Cross-site Scripting Attack
 712,Group,2023,39771608,Bank,Cryptojacking Attack
 713,Inc. UAL,2018,47842300,Orphanage,Man In The Middle Attack
@@ -1690,13 +1690,13 @@
 718,Department,2021,38613322,Hospital,Phishing
 719,Corporation US,2012,60090425,Burget Franchaise,Worm VirusDDoS Attack
 72,Markets,2021,1179864,Kindergarden,DoS Attack
-"720,""Group,"",2010,55987920,Small Business,Cross-site Scripting Attack"
+720,Group,,2010,55987920,Small Business,Cross-site Scripting Attack
 721,Computer,2012,32287101,Hospital,Cross-site Scripting Attack
-"722,""Group,"",2013,23290998,Supermarket,Spoofing"
+722,Group,,2013,23290998,Supermarket,Spoofing
 723,Products,2017,11162397,Supermarket,Code Injections Attack
-"724,""Company,"",2014,63946576,Burget Franchaise,Supply chain Attack"
+724,Company,,2014,63946576,Burget Franchaise,Supply chain Attack
 725,Corporation The,2016,15641150,Kindergarden,Business Email Compromise Attack
-"726,""Inc. AdvancePCS,"",2015,69058572,Bank,51% Attack"
+726,Inc. AdvancePCS,,2015,69058572,Bank,51% Attack
 727,Industries,2012,71376133,Hospital,Worm VirusDDoS Attack
 728,Inc United,2020,18328856,Train Station,Identity-Based Attack
 729,Inc WESCO,2018,59680314,Bank,Cryptojacking Attack
@@ -1720,8 +1720,8 @@
 745,Health,2013,66737845,Bank,Phishing
 746,Services,2014,39139636,Small Business,Drive-by Attack
 747,Inc Unocal,2014,56081772,Bank,Drive-by Attack
-"748,""Inc. AdvancePCS,"",2015,53523140,Pizzeria,Cross-site Scripting Attack"
-"749,""Inc. Amazon.com,"",2014,27643343,Pizzeria,Cross-site Scripting Attack"
+748,Inc. AdvancePCS,,2015,53523140,Pizzeria,Cross-site Scripting Attack
+749,Inc. Amazon.com,,2014,27643343,Pizzeria,Cross-site Scripting Attack
 75,Co. Waste,2018,7344150,Non-Profit,Malware
 750,AES,2018,3120750,Kindergarden,Spoofing
 751,Energy,2019,71731014,Bank,Supply chain Attack
@@ -1729,7 +1729,7 @@
 753,3Com,2023,26343705,Orphanage,Business Email Compromise Attack
 754,Greetings,2010,1648244,Burget Franchaise,Code Injections Attack
 755,Express,2019,58384150,School,51% Attack
-"756,""Industries,"",2013,31558464,Burget Franchaise,Zero-Day Exploit Attack"
+756,Industries,,2013,31558464,Burget Franchaise,Zero-Day Exploit Attack
 757,Restaurant,2012,3595750,Kindergarden,DNS Tunneling Attack
 758,Inc. American,2016,68564890,Hospital,Business Email Compromise Attack
 759,Corporation UST,2023,35591028,Train Station,Code Injections Attack
@@ -1740,7 +1740,7 @@
 763,Corporation Alaska,2014,52080091,Kindergarden,Cross-site Scripting Attack
 764,Corporation Verizon,2016,25968360,Kindergarden,Identity-Based Attack
 765,Information,2019,38449665,Pizzeria,Business Email Compromise Attack
-"766,""Group,"",2020,16115874,Hospital,Man In The Middle Attack"
+766,Group,,2020,16115874,Hospital,Man In The Middle Attack
 767,Waste,2022,7161479,Government,Supply chain Attack
 768,Inc. Affiliated,2020,33387264,Local Shop,Malware
 769,Coors,2016,45966206,Small Business,51% Attack
@@ -1767,18 +1767,18 @@
 788,Inc United,2015,46221716,Hospital,51% Attack
 789,Inc. American,2011,40660326,Hardware Store,Malware
 79,Corporation Ames,2018,71337,Kindergarden,Business Email Compromise Attack
-"790,""Group,"",2012,48237400,Non-Profit,SQL Injection Attack"
+790,Group,,2012,48237400,Non-Profit,SQL Injection Attack
 791,Inc Watsco,2013,51486190,Burget Franchaise,DoS Attack
 792,Companies,2016,53383968,Shooting Range,Insider Attack
 793,Coors,2023,68239236,School,SQL Injection Attack
-"794,""Inc. AdvancePCS,"",2020,10081418,Hardware Store,Cross-site Scripting Attack"
+794,Inc. AdvancePCS,,2020,10081418,Hardware Store,Cross-site Scripting Attack
 795,Corporation American,2013,41093550,Local Shop,Worm VirusDDoS Attack
 796,Company A.G.,2021,3384592,Burget Franchaise,Phishing
 797,Inc Washington,2019,45144471,Sandwitch Shop,Malware
 798,Pacific,2014,21792582,Kindergarden,Cryptojacking Attack
 799,Products,2023,54902486,School,Cryptojacking Attack
 8,Inc. Alcoa,2010,368240,Shooting Range,Insider Attack
-"80,""Inc. AdvancePCS,"",2020,5407600,Government,Worm VirusDDoS Attack"
+80,Inc. AdvancePCS,,2020,5407600,Government,Worm VirusDDoS Attack
 800,City,2015,64921600,Non-Profit,Worm VirusDDoS Attack
 801,Inc Wal-Mart,2011,37314585,Burget Franchaise,Drive-by Attack
 802,&,2022,57453676,Burget Franchaise,Drive-by Attack
@@ -1787,10 +1787,10 @@
 805,Inc. Agway,2021,11675720,Non-Profit,Identity-Based Attack
 806,Services,2019,48379344,Pizzeria,Identity-Based Attack
 807,Standard,2014,28035987,Small Business,51% Attack
-"808,""Energy,"",2023,62230544,Train Station,Business Email Compromise Attack"
+808,Energy,,2023,62230544,Train Station,Business Email Compromise Attack
 809,Inc Union,2020,67995641,Sandwitch Shop,Drive-by Attack
 81,Allstate,2021,4484241,Orphanage,Cryptojacking Attack
-"810,""Group,"",2010,66858210,Government,DoS Attack"
+810,Group,,2010,66858210,Government,DoS Attack
 811,Industries,2022,73438483,Kindergarden,DoS Attack
 812,Company Advance,2020,52326092,Hospital,Cross-site Scripting Attack
 813,Financial,2016,19016883,Pizzeria,Spoofing
@@ -1800,8 +1800,8 @@
 817,International,2018,13476415,Burget Franchaise,Malware
 818,City,2012,28908938,School,DNS Tunneling Attack
 819,Holding,2022,73002384,Shooting Range,DNS Tunneling Attack
-"82,""Services,"",2014,2549872,Burget Franchaise,Man In The Middle Attack"
-"820,""Energy,"",2015,26409740,Burget Franchaise,Business Email Compromise Attack"
+82,Services,,2014,2549872,Burget Franchaise,Man In The Middle Attack
+820,Energy,,2015,26409740,Burget Franchaise,Business Email Compromise Attack
 821,Sciences,2023,69612590,Supermarket,Drive-by Attack
 822,Corp Unisource,2017,78722940,Supermarket,Spoofing
 823,Inc. Agway,2018,33943812,Local Shop,Identity-Based Attack
@@ -1813,33 +1813,33 @@
 829,Inc. American,2016,60716789,Kindergarden,Malware
 83,Hardware,2014,6882111,Sandwitch Shop,Identity-Based Attack
 830,Technologies,2021,10500330,Small Business,Malware
-"831,""Group,"",2010,67330944,Kindergarden,Supply chain Attack"
+831,Group,,2010,67330944,Kindergarden,Supply chain Attack
 832,Holdings,2012,60345792,Non-Profit,DNS Tunneling Attack
 833,&,2016,23525586,Local Shop,Cross-site Scripting Attack
 834,Inc. American,2012,39770958,Small Business,Zero-Day Exploit Attack
 835,Foods,2014,27227680,Hospital,Zero-Day Exploit Attack
 836,&,2023,71490540,Hospital,Man In The Middle Attack
 837,Inc. American,2014,21261474,Small Business,Business Email Compromise Attack
-"838,""Group,"",2017,10671930,Non-Profit,Code Injections Attack"
+838,Group,,2017,10671930,Non-Profit,Code Injections Attack
 839,Entertainment,2013,23493678,Government,Business Email Compromise Attack
 84,Fitch,2011,5495616,Hardware Store,Identity-Based Attack
-"840,""Group,"",2023,59358600,Bank,Business Email Compromise Attack"
+840,Group,,2023,59358600,Bank,Business Email Compromise Attack
 841,Corporation USG,2020,17013430,Shooting Range,Identity-Based Attack
 842,Health,2020,31770344,Government,Business Email Compromise Attack
 843,Inc USA,2011,72752586,Train Station,Code Injections Attack
 844,Corporation Unova,2010,25243196,Kindergarden,SQL Injection Attack
 845,Inc Wachovia,2022,34391500,Local Shop,DoS Attack
-"846,""Incorporated Allergan,"",2015,84576312,Supermarket,Supply chain Attack"
+846,Incorporated Allergan,,2015,84576312,Supermarket,Supply chain Attack
 847,Parcel,2010,81501728,Orphanage,Zero-Day Exploit Attack
 848,Manufacturing,2019,66384832,Local Shop,Spoofing
 849,Inc. United,2020,15017961,Supermarket,SQL Injection Attack
 85,Group,2015,7079480,Orphanage,Drive-by Attack
-"850,""Energy,"",2017,61511100,Supermarket,Business Email Compromise Attack"
+850,Energy,,2017,61511100,Supermarket,Business Email Compromise Attack
 851,Holdings,2018,80475666,Shooting Range,Zero-Day Exploit Attack
 852,3Com,2013,62034972,Sandwitch Shop,Man In The Middle Attack
 853,Laboratories Abercrombie,2016,75846201,Orphanage,Drive-by Attack
 854,Inc Vishay,2021,67941678,Hospital,DoS Attack
-"855,""Devices,"",2011,50957145,School,51% Attack"
+855,Devices,,2011,50957145,School,51% Attack
 856,Communications,2012,74626080,Sandwitch Shop,Cross-site Scripting Attack
 857,Corporation Allegheny,2017,74160495,Bank,Code Injections Attack
 858,Inc. ADC,2017,30495036,Government,51% Attack
@@ -1853,7 +1853,7 @@
 865,Air,2018,64735735,Non-Profit,SQL Injection Attack
 866,Inc Wal-Mart,2016,40817178,Hospital,Worm VirusDDoS Attack
 867,Inc. American,2018,52468239,Hospital,Business Email Compromise Attack
-"868,""Inc. Amazon.com,"",2012,43334900,Orphanage,DNS Tunneling Attack"
+868,Inc. Amazon.com,,2012,43334900,Orphanage,DNS Tunneling Attack
 869,Corporation Valspar,2010,79042502,Hardware Store,Code Injections Attack
 87,Power,2013,1795593,School,Identity-Based Attack
 870,Inc. American,2015,54542910,Bank,SQL Injection Attack
@@ -1862,7 +1862,7 @@
 873,Co. Waste,2012,46048131,Shooting Range,Insider Attack
 874,Materials,2018,52819316,Non-Profit,Spoofing
 875,Inc. Alliant,2015,70021875,Kindergarden,Code Injections Attack
-"876,""Corporation Administaff,"",2023,13472004,Local Shop,Worm VirusDDoS Attack"
+876,Corporation Administaff,,2023,13472004,Local Shop,Worm VirusDDoS Attack
 877,Inc VF,2012,15451863,Non-Profit,Code Injections Attack
 878,Rentals,2010,73041698,Sandwitch Shop,Spoofing
 879,Department,2012,50442294,Orphanage,Code Injections Attack
@@ -1879,9 +1879,9 @@
 889,Pacific,2020,84987511,Small Business,51% Attack
 89,City,2014,2908431,Local Shop,Worm VirusDDoS Attack
 890,Foods,2010,74222440,Bank,Man In The Middle Attack
-"891,""Group,"",2019,11818224,Hospital,Business Email Compromise Attack"
+891,Group,,2019,11818224,Hospital,Business Email Compromise Attack
 892,Hardware,2019,20425908,Shooting Range,SQL Injection Attack
-"893,""Inc. Amazon.com,"",2011,11343779,Burget Franchaise,Insider Attack"
+893,Inc. Amazon.com,,2011,11343779,Burget Franchaise,Insider Attack
 894,Industries,2016,462198,Train Station,Worm VirusDDoS Attack
 895,Inc. Wellpoint,2017,65363640,Pizzeria,Supply chain Attack
 896,Inc VF,2019,41137152,Shooting Range,Cryptojacking Attack
@@ -1892,20 +1892,20 @@
 90,Corporation Unified,2022,7664760,Burget Franchaise,Code Injections Attack
 900,Fargo,2014,38151000,Train Station,Code Injections Attack
 901,Inc. American,2017,15149414,Non-Profit,Supply chain Attack
-"902,""Industries,"",2016,69246540,Local Shop,Man In The Middle Attack"
+902,Industries,,2016,69246540,Local Shop,Man In The Middle Attack
 903,Inc Wells,2019,76964496,Kindergarden,Code Injections Attack
 904,Inc. TruServ,2014,61048928,Kindergarden,Phishing
 905,Corporation Alaska,2015,7465345,School,DoS Attack
 906,Inc United,2016,28525410,Pizzeria,Cryptojacking Attack
 907,Inc Universal,2015,41063518,Orphanage,Zero-Day Exploit Attack
-"908,""Services,"",2020,41173260,Small Business,Insider Attack"
+908,Services,,2020,41173260,Small Business,Insider Attack
 909,Inc. UAL,2015,90449136,Burget Franchaise,Cryptojacking Attack
 91,Incorporated Adolph,2018,2622074,Small Business,Identity-Based Attack
 910,Corporation Ames,2014,9907170,Orphanage,Supply chain Attack
 911,Inc Western,2017,20286148,Supermarket,SQL Injection Attack
 912,Western,2010,71998752,Hardware Store,Phishing
 913,Inc US,2018,77350273,Burget Franchaise,Code Injections Attack
-"914,""Outfitters,"",2012,9034890,Hardware Store,Zero-Day Exploit Attack"
+914,Outfitters,,2012,9034890,Hardware Store,Zero-Day Exploit Attack
 915,Incorporated Ace,2023,21733080,Orphanage,Business Email Compromise Attack
 916,Corporation Viacom,2015,12015172,Pizzeria,Drive-by Attack
 917,Inc Vulcan,2018,67357318,Orphanage,Drive-by Attack
@@ -1936,31 +1936,31 @@
 94,Inc. American,2014,717032,Sandwitch Shop,Business Email Compromise Attack
 940,Computer,2018,17239600,Bank,Identity-Based Attack
 941,Stores,2014,2581163,School,Zero-Day Exploit Attack
-"942,""Chemicals,"",2018,82322322,Orphanage,Cross-site Scripting Attack"
-"943,""Group,"",2012,75583336,Non-Profit,Man In The Middle Attack"
+942,Chemicals,,2018,82322322,Orphanage,Cross-site Scripting Attack
+943,Group,,2012,75583336,Non-Profit,Man In The Middle Attack
 944,Inc. Affiliated,2016,62589088,Sandwitch Shop,Drive-by Attack
 945,Inc. Allmerica,2014,92411550,Non-Profit,DoS Attack
 946,Inc. AK,2023,31769518,Sandwitch Shop,Phishing
 947,Corporation Volt,2011,83321795,Train Station,Supply chain Attack
 948,Entertainment,2017,82050348,Government,Man In The Middle Attack
 949,Companies,2022,65412672,Bank,Spoofing
-"95,""Devices,"",2011,5100930,Hospital,51% Attack"
-"950,""Group,"",2023,37792900,Pizzeria,DNS Tunneling Attack"
+95,Devices,,2011,5100930,Hospital,51% Attack
+950,Group,,2023,37792900,Pizzeria,DNS Tunneling Attack
 951,Corporation Walgreen,2020,30896088,Hospital,Worm VirusDDoS Attack
 952,Industries,2012,23274496,Hardware Store,Drive-by Attack
 953,Inc. AmerisourceBergen,2010,76407728,Non-Profit,SQL Injection Attack
 954,Inc. AMC,2022,65873700,Supermarket,Worm VirusDDoS Attack
 955,Airways,2023,46661300,Government,Cryptojacking Attack
 956,AES,2017,1840300,Non-Profit,Cryptojacking Attack
-"957,""Inc. ALLETE,"",2014,8390019,Train Station,Zero-Day Exploit Attack"
+957,Inc. ALLETE,,2014,8390019,Train Station,Zero-Day Exploit Attack
 958,Information,2013,52844238,Shooting Range,Insider Attack
 959,Corporation TRW,2011,65917824,School,DoS Attack
-"96,""Industries,"",2012,795552,Bank,Identity-Based Attack"
-"960,""Group,"",2010,68484480,Small Business,Zero-Day Exploit Attack"
+96,Industries,,2012,795552,Bank,Identity-Based Attack
+960,Group,,2010,68484480,Small Business,Zero-Day Exploit Attack
 961,Co. Waste,2018,33929066,Local Shop,Man In The Middle Attack
 962,Sciences,2011,1835496,Non-Profit,Cross-site Scripting Attack
 963,Inc United,2014,14460408,Government,Worm VirusDDoS Attack
-"964,""Services,"",2016,10393848,Burget Franchaise,Insider Attack"
+964,Services,,2016,10393848,Burget Franchaise,Insider Attack
 965,Inc United,2013,70001100,Shooting Range,DoS Attack
 966,Management,2022,54771234,Supermarket,Malware
 967,Rentals,2021,3144684,Government,Spoofing
@@ -1984,18 +1984,18 @@
 983,Company Albertson,2015,71353021,Government,Man In The Middle Attack
 984,West,2012,32932512,Shooting Range,51% Attack
 985,Industries,2018,73076165,Pizzeria,Zero-Day Exploit Attack
-"986,""Group,"",2022,47415754,Burget Franchaise,Business Email Compromise Attack"
+986,Group,,2022,47415754,Burget Franchaise,Business Email Compromise Attack
 987,Corporation Union,2022,62405049,Bank,SQL Injection Attack
 988,Inc WESCO,2022,81897296,Small Business,Insider Attack
 989,Corp. Adams,2016,46794535,Supermarket,DoS Attack
 99,Industries,2021,4900104,Government,DoS Attack
-"990,""Group,"",2017,37914030,Pizzeria,DoS Attack"
+990,Group,,2017,37914030,Pizzeria,DoS Attack
 991,International,2014,13462735,Burget Franchaise,Identity-Based Attack
 992,Financial,2013,37354752,Burget Franchaise,Worm VirusDDoS Attack
 993,Inc. American,2020,41710965,Government,Business Email Compromise Attack
 994,Corporation Value,2013,18704098,Bank,Drive-by Attack
 995,Corporation US,2020,9726125,Hospital,Supply chain Attack
 996,Inc. American,2023,65803728,Orphanage,Cross-site Scripting Attack
-"997,""Energy,"",2018,6345905,Bank,Insider Attack"
+997,Energy,,2018,6345905,Bank,Insider Attack
 998,Corporation Union,2021,17612704,Hospital,Cross-site Scripting Attack
 999,Corporation TRW,2020,32789178,Non-Profit,Spoofing

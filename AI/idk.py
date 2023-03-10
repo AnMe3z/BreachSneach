@@ -15,8 +15,9 @@ o = trainDataset['method'].apply(lambda x: methods.isin([x]).astype(int))
 t = t.to_numpy()
 t = tf.convert_to_tensor(t)
 t = tf.reshape(t, [-1, 16])
+
 o = o.to_numpy()
-o = tf.convert_to_tensor(o)
+o = tf.one_hot(o, depth=19)  # One-hot encode output data
 o = tf.reshape(o, [-1, 19])
 
 print(o)
@@ -27,10 +28,10 @@ model = tf.keras.models.Sequential([
     tf.keras.layers.Input(16, batch_size=10),
     tf.keras.layers.Dense(20, activation='relu'),
     tf.keras.layers.Dense(25, activation='relu'),
-    tf.keras.layers.Dense(19)
+    tf.keras.layers.Dense(19, activation='softmax')
 ])
 
-loss = tf.keras.losses.SparseCategoricalCrossentropy(from_logits = False)
+loss = tf.keras.losses.CategoricalCrossentropy()
 
 model.compile(optimizer='adam', 
               loss=loss, 

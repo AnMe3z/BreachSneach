@@ -42,14 +42,14 @@ method = ['Malware',
           'Cross-site Scripting Attack'
           ]
 
-with open('Data/trustWorthy-database(Test).csv', 'w') as file: #write file
+with open('Data/trustWorthy-database.csv', 'w') as file: #write file
     writer = csv.writer(file)
 
-with open('Data/trustWorthy-database(Test).csv', 'w') as file: #write file
+with open('Data/trustWorthy-database.csv', 'w') as file: #write file
     writer = csv.writer(file)
     i = 0
 
-    while i <= 2000 : #number of entries
+    while i <= 10000 : #number of entries
         a = random.randint(0, 100000)
         b = random.randint(0,1000)
         i+=1
