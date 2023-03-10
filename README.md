@@ -1,21 +1,19 @@
-# BreachSneach
+BreachSneach
 
-![Screenshot](logo.png)
+Screenshot
 
-BreachSneach е проекта на TariCAD sistema за Hack Tues 9.
-\n
-Автори на проекта:
-\n
-Андрей Ежков - 11 Г клас
-\n
-Димитър Милчев - 10 А клас
-\n
-Викторио Миланов - 11 Г клас
-\n
-Проектът е концепция за prediction на кибер атаки и security breach-ове. Използваните технологии са:
-\n
-Python, NextJS, React, Blockchain и tenseofflow.
-\n
-Начин на работа:
-\n
-Потребителя избира в какъв сектор ще създава проект и AI му дава възможни начини за пробиви в бъдеще.
+BreachSneach is the project of TariCAD system for Hack Tues 9.
+
+Authors:
+
+    Андрей Ежков - 11 Г клас
+    Димитър Милчев - 10 А клас
+    Викторио Миланов - 11 Г клас
+
+The project is a concept for predicting cyber attacks and security breaches. The technologies used are:
+
+Python, NextJS, React, Blockchain, and Tensorflow.
+
+The working process is as follows:
+
+The user selects the sector in which he wants to create a project, and AI provides possible ways for future breaches.
