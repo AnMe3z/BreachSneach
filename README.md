@@ -2,7 +2,7 @@
 
 ![Screenshot](logo.png)
 
-## **<h2 align="center">BreachSneach***</h1>** 
+## ***<h2 align="center">BreachSneach***</h1> 
 ** BreachSneachе проекта на TariCAD sistema за Hack Tues 9.**
 
 **Автори:**
