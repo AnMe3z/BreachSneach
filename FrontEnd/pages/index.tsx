@@ -18,14 +18,14 @@ function Home() {
   return (
     <div>
       <Head>
-        <title>LimeAcademy-boilerplate</title>
+        <title>BreachSneach</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <header>
         <nav>
           <Link href="/">
-            <a>LimeAcademy-boilerplate</a>
+            <a>BreachSneach</a>
           </Link>
 
           <Account triedToEagerConnect={triedToEagerConnect} />
@@ -34,10 +34,7 @@ function Home() {
 
       <main>
         <h1>
-          Welcome to{" "}
-          <a href="https://github.com/LimeChain/next-web3-boilerplate">
-            LimeAcademy-boilerplate
-          </a>
+          Welcome to BreachSneach
         </h1>
 
         {isConnected && (
