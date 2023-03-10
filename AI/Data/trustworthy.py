@@ -13,16 +13,17 @@ type = ['Orphanage',
         'School', 
         'Shooting Range', 
         'Kindergarden', 
-        'Goverment', 
+        'Government', 
         'Non-Profit',
         'Train Station',
         'Small Business',
         'Local Shop',
-        'Pizzaria',
+        'Pizzeria',
         'Sandwitch Shop',
         'Burget Franchaise']
 method = ['Malware',
           'DoS Attack',
+          'Worm Virus'
           'DDoS Attack',
           'Phishing',
           'Spoofing',
@@ -41,10 +42,10 @@ method = ['Malware',
           'Cross-site Scripting Attack'
           ]
 
-with open('ai/data/trust-database.csv', 'w') as file:
+with open('Data/trustWorthy-database.csv', 'w') as file:
     writer = csv.writer(file)
 
-with open('ai/data/trust-database.csv', 'w') as file:
+with open('Data/trustWorthy-database.csv', 'w') as file:
     writer = csv.writer(file)
     i = 0
 
