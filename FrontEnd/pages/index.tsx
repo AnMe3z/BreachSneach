@@ -16,7 +16,7 @@ function Home() {
   const changePage = () => {
     window.location.href = "/main.tsx";
   };
-  
+
   const isConnected = typeof account === "string" && !!library;
   
   useEffect(() => {
@@ -35,26 +35,39 @@ function Home() {
       <header>
         <nav>
           <Link href="/">
-            <a>BreachSneach</a>
+            <img height="217" width="283" src="https://raw.githubusercontent.com/TariCAD-sistema/BreachSneach/main/logo.jpg"/>
           </Link>
-
           <Account triedToEagerConnect={triedToEagerConnect} />
         </nav>
       </header>
 
       <main>
-        <h1>
-          Welcome to BreachSneach
-        </h1>
+        <h1>Welcome to BreachSneach</h1>
 
-          {/* // --- displays the users balance
+        <button
+          title="You must be authenticated"
+          style={{
+            backgroundColor: "#000000",
+            color: "#ffffff",
+            padding: "1rem 2rem",
+            fontSize: "1.2rem",
+            borderRadius: "0.25rem",
+            border: "none",
+            cursor: "pointer",
+            marginTop: "2rem",
+            boxShadow: "0 0.25rem 0.5rem rgba(0, 0, 0, 0.15)",
+          }}
+        >
+          Get started
+        </button>
 
-          // <section>
+          {/* --- show user balance  */}
+          {/* // <section>
           //   <NativeCurrencyBalance />
 
           //   <TokenBalance tokenAddress={ALBT_TOKEN_ADDRESS} symbol="ALBT" />
           //   <USLibrary contractAddress={US_ELECTION_ADDRESS} />
-          // </section> */}
+          // </section> */} 
       </main>
 
       <style jsx>{`
