@@ -6,9 +6,6 @@ import numpy as np
 trainDataset = pd.read_csv('trustWorthy-database.csv')
 testDataset = pd.read_csv('trustWorthy-database(Test).csv')
 
-#train train - train dataset        
-#test test - test dataset
-
 (x_train, y_train) = trainDataset.load_data()
 (x_test, y_test) = testDataset.load_data()
 
