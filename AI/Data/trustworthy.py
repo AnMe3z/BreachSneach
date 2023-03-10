@@ -22,4 +22,3 @@ with open('trust-database.csv', 'w') as file:
         data = [i, entities[random.randint(0, len(entities)-1)], year + random.randint(0, 13), i * a, type[random.randint(0, len(type)-1)], method[random.randint(0, len(method)-1)]]
         writer.writerow(data)
         
- 
