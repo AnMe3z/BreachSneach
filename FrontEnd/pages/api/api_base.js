@@ -1,9 +1,10 @@
 export default function handler(req, res) {
-    const { name } = req.query;
-    if (!name) {
-      res.status(400).json({ error: 'Name is required' });
+    console.log(req.query.name1);
+    const { name1 } = req.query;
+    if (!name1) {
+      res.status(400).json({ error: 'Invalid project type' });
       return;
     }
-    res.status(200).json({ message: `Hello, ${name}!` });
+    const data = { projectType: name1 };
+    res.status(200).json(data);
   }
-  
