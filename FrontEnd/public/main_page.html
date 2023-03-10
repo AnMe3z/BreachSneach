@@ -2,14 +2,14 @@
 <html>
 <head>
   <meta charset="UTF-8">
-  <title>Select Business Type</title>
+  <title>Select Project Type</title>
   <link rel="icon" href="/favicon.ico" />
   <style>
     body {
       display: flex;
       flex-direction: column;
       align-items: center;
-      justify-content: center;
+      justify-content: flex-start; /* center content at the top */
       height: 100vh;
       margin: 0;
     }
@@ -19,7 +19,7 @@
       margin-bottom: 2rem;
     }
 
-    .business-type {
+    .project-type {
       padding: 1rem 2rem;
       font-size: 1.2rem;
       background-color: #000000;
@@ -29,15 +29,38 @@
       cursor: pointer;
     }
 
-    .business-type:hover {
+    .project-type:hover {
       background-color: #32127A;
     }
+
+    div {
+      margin-top: 3rem; /* add top margin to the div */
+      text-align: center;
+    }
+
+    textarea {
+      width: 100%;
+      height: 50vh; /* set the height to half of the viewport height */
+      margin-top: 3rem; /* add top margin to the textarea */
+      font-size: 1.2rem;
+      padding: 1rem;
+      box-sizing: border-box;
+      border: 2px solid #32127A;
+    }
   </style>
+  <script>
+    function handleSelect(event) {
+      const selectedValue = event.target.value;
+      console.log(`Selected project type: ${selectedValue}`);
+      const textBox = document.getElementById("my-textbox");
+      textBox.value = `You have selected "${selectedValue}" as your project type.`;
+    }
+  </script>
 </head>
 <body>
-  <div style="text-align: center;">
+  <div>
     <h1>Select the type of project you want to start</h1>
-    <select name="business-type" class="business-type">
+    <select name="project-type" class="project-type" onchange="handleSelect(event)">
       <option value="Hospital">Hospital</option>
       <option value="Bank">Bank</option>
       <option value="Supermarket">Supermarket</option>
@@ -48,12 +71,13 @@
       <option value="Government">Government</option>
       <option value="Non-Profit">Non-Profit</option>
       <option value="Train Station">Train Station</option>
-      <option value="Small Business">Small Business</option>
+      <option value="Small project">Small project</option>
       <option value="Local Shop">Local Shop</option>
-      <option value="Pizzeria">Pizzeria</option>
+      <option value="Pizzeria">Pizzeria</option>  
       <option value="Sandwich Shop">Sandwich Shop</option>
       <option value="Burger Franchise">Burger Franchise</option>
     </select>
+    <textarea id="my-textbox" readonly></textarea>
   </div>
 </body>
 </html>
