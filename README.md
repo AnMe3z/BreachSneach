@@ -15,6 +15,7 @@ BreachSneach е проекта на TariCAD sistema за Hack Tues 9.
     NextJS
     Python
     React
+    Tensorflow
     
 Начин на работа:
 
