@@ -29,9 +29,8 @@ function Home() {
       <header>
         <nav>
           <Link href="/">
-            <a>BreachSneach</a>
+            <img height="217" width="283" src="https://raw.githubusercontent.com/TariCAD-sistema/BreachSneach/main/logo.jpg"/>
           </Link>
-
           <Account triedToEagerConnect={triedToEagerConnect} />
         </nav>
       </header>
