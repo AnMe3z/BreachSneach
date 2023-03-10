@@ -3,13 +3,15 @@ import Link from "next/link";
 import Head from "next/head";
 
 const SelectProjectType: React.FC = () => {
-  const handleSelect = (event: React.ChangeEvent<HTMLSelectElement>) => {
+  async function callServer(event: React.ChangeEvent<HTMLSelectElement>) {
     const selectedValue = event.target.value;
     console.log(`Selected project type: ${selectedValue}`);
     const textBox = document.getElementById("my-textbox") as HTMLTextAreaElement;
-    textBox.value = `You have selected "${selectedValue}" as your project type.`;
-  };
-
+    //textBox.value = `You have selected "${selectedValue}" as your project type.`;
+    const res = await fetch(`/api/api_base?name1=${selectedValue}`);
+    const json = await res.json();
+    console.log(json.message);
+  }
   return (
     <html>
       <head>
@@ -70,7 +72,7 @@ const SelectProjectType: React.FC = () => {
           <select
             name="project-type"
             className="project-type"
-            onChange={handleSelect}
+            onChange={callServer}
           >
             <option value="Hospital">Hospital</option>
             <option value="Bank">Bank</option>
