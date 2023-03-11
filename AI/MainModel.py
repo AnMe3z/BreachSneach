@@ -71,3 +71,5 @@ print([print(i.shape, i.dtype) for i in model.inputs])
 print([print(o.shape, o.dtype) for o in model.outputs])
 
 model.fit(t, o, epochs=5)
+
+tfjs.converters.save_keras_model(model, 'MainModel.json')
