@@ -1,9 +1,11 @@
 ## ***<h2 align="center">BreachSneach***</h1> 
-<h3 align="center">BreachSneach е проектът на TariCAD sistema за Hack Tues 9. Той е решение за прогноза на кибератаки и security breach-ове.
+<h3 align="center">BreachSneach е проектът на TariCAD sistema за Hack Tues 9. Той е решение за прогноза на кибератаки.
 
+--------------------------------------------------------------------------------------------------------------------
 
 <p align="center">
-  <img width="460" height="300" src="logo.png">
+
+  <img width="460" height="400" src="logo.png">
 </p>
 
 ## ***<h2 align="center">Начин на работа***</h1> 
