@@ -14,63 +14,35 @@ const SelectProjectType: React.FC = () => {
   }
 
   return (
-    <html>
-      <head>
-        <meta charSet="UTF-8" />
-        <title>Select Project Type</title>
+    <div>
+      <Head>
+        <title>BreachSneach - Select Project Type</title>
         <link rel="icon" href="/favicon.ico" />
-        <style>
-          {`
-            body {
-              display: flex;
-              flex-direction: column;
-              align-items: center;
-              justify-content: flex-start;
-              height: 100vh;
-              margin: 0;
-            }
+      </Head>
 
-            h1 {
-              font-size: 2.5rem;
-              margin-bottom: 2rem;
-            }
+      <header>
+        <nav>
+          <button className="hustle-button">BreachSneach</button>
+          <button className="hustle-button-empty">AAAA</button>
+          <button className="hustle-button">About us</button>
+          <button className="hustle-button-empty">AAAA</button>
+          <button className="hustle-button">Why AI?</button>
+          <button className="hustle-button-empty">AAAA</button>
+          <button className="hustle-button">Stay Informed</button>
+          <button className="hustle-button-empty">AAAA</button>
+          <button className="hustle-button">Donate</button>
+        </nav>
+      </header>
 
-            .project-type {
-              padding: 1rem 2rem;
-              font-size: 1.2rem;
-              background-color: #000000;
-              color: #fff;
-              border: none;
-              border-radius: 0.25rem;
-              cursor: pointer;
-            }
+      <main>
+        <h1 className="title-text">Type</h1>
 
-            .project-type:hover {
-              background-color: #32127A;
-            }
+        <div className="container">
+          <h1>Select the type of project </h1>
+          
+        </div>
 
-            div {
-              margin-top: 3rem;
-              text-align: center;
-            }
-
-            textarea {
-              width: 100%;
-              height: 50vh;
-              margin-top: 3rem;
-              font-size: 1.2rem;
-              padding: 1rem;
-              box-sizing: border-box;
-              border: 2px solid #32127A;
-              resize:none;
-            }
-          `}
-        </style>
-      </head>
-      <body>
-        <div>
-          <h1>Select the type of project you want to start</h1>
-          <select
+        <div className="subtitle-title-text"><select
             name="project-type"
             className="project-type"
             onChange={callServer}
@@ -91,10 +63,149 @@ const SelectProjectType: React.FC = () => {
             <option value="Sandwich Shop">Sandwich Shop</option>
             <option value="Burger Franchise">Burger Franchise</option>
           </select>
-          <textarea id="my-textbox" readOnly></textarea>
         </div>
-      </body>
-    </html>
+
+        <div className="container-two">
+          <textarea className="hustle-area" id="my-textbox" readOnly></textarea>
+        </div>
+
+          {/* --- show user balance  */}
+          {/* // <section>
+          //   <NativeCurrencyBalance />
+
+          //   <TokenBalance tokenAddress={ALBT_TOKEN_ADDRESS} symbol="ALBT" />
+          //   <USLibrary contractAddress={US_ELECTION_ADDRESS} />
+          // </section> */} 
+      </main>
+
+      <style jsx>{`
+
+        hustle-area {
+          border: 10px solid red;
+          outline: none;
+        }
+
+        nav {
+          display: flex;
+          padding: 10px;
+          justify-content: space-between;
+          align-items: center;
+          background-color: black;
+
+          // display: flex;
+          // justify-content: space-between;
+        }
+
+        main {
+          padding: 10px;
+          text-align: center;
+          background-image: url('https://raw.githubusercontent.com/TariCAD-sistema/BreachSneach/hustle/FrontEnd/images/bg1-gc-bl.jpeg');
+          background-repeat: no-repeat;
+          background-attachment: fixed;
+          background-size: cover;
+        }
+        
+        .container {
+          border: 5px solid white;
+          background-color: black;
+          color: white;
+          padding: 16px;
+          align: center;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          width: 800px;
+          height: 100px;
+          margin: auto;
+          width: 40%;
+        }
+        
+        p {
+          margin: 0;
+        }
+
+        .title-text {
+          color: white;
+          font-weight:bold;
+          background-color: black;
+          color: white;
+          padding: 16px;
+          align: center;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          height: 100px;
+          margin: auto;
+          width: 40%;
+        }
+
+        .subtitle-title-text {
+          color: white;
+          font-weight:bold;
+          background-color: white;
+          color: black;
+          padding: 16px;
+          align: center;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          height: 50px;
+          margin: auto;
+          width: 40%;
+        }
+
+        .container-two {
+          border: 5px solid white;
+          background-color: black;
+          color: white;
+          padding: 16px;
+          align: center;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          height: 286px;
+          margin: auto;
+          width: 40%;
+        }
+
+
+        .text {
+          color: white;
+        }
+
+        .small-text {
+          font-weight: 400;
+          color: white;
+          // background-color: black;
+        }
+
+        .hustle-button {
+          padding: .75rem 1.25rem;
+          // font-family: "Sono";
+          font-size: large; 
+          background-color: black;
+          color: white;
+          font-weight: 700;
+          text-transform: uppercase;
+          // border-radius: 0.5rem;
+          border-color: white;
+          border-width: medium;
+        }
+
+        .hustle-button-empty {
+          padding: .75rem 1.25rem;
+          // font-family: "Sono";
+          font-size: large; 
+          background-color: black;
+          color: black;
+          font-weight: 700;
+          text-transform: uppercase;
+          // border-radius: 0.5rem;
+          border-color: black;
+          border-width: medium;
+        }
+      `}</style>
+    </div>
   );
 };
 
