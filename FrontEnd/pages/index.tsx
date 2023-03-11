@@ -71,7 +71,7 @@ function Home() {
 
         main {
           text-align: center;
-          background-image: url('https://raw.githubusercontent.com/TariCAD-sistema/BreachSneach/main/logo.jpg');
+          background-image: url('https://raw.githubusercontent.com/TariCAD-sistema/BreachSneach/hustle/FrontEnd/images/bg1-gc-bl.jpeg');
         }
         
         .text {
