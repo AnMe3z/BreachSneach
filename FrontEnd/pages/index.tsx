@@ -51,7 +51,7 @@ function Home() {
 
         
         <Link href="/">
-            <img height="217" width="283" src="https://raw.githubusercontent.com/TariCAD-sistema/BreachSneach/main/logo.jpg"/>
+            <img height="217" width="283" src="https://raw.githubusercontent.com/TariCAD-sistema/BreachSneach/main/logo.png"/>
           </Link>
 
           {/* --- show user balance  */}
