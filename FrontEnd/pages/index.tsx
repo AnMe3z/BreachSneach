@@ -34,23 +34,37 @@ function Home() {
 
       <header>
         <nav>
+          <button className="hustle-button">BreachSneach</button>
+          <button className="hustle-button-empty">AAAA</button>
           <button className="hustle-button">About us</button>
+          <button className="hustle-button-empty">AAAA</button>
           <button className="hustle-button">Why AI?</button>
+          <button className="hustle-button-empty">AAAA</button>
           <button className="hustle-button">Stay Informed</button>
+          <button className="hustle-button-empty">AAAA</button>
+          <button className="hustle-button">Donate</button>
         </nav>
       </header>
 
       <main>
         <h1 className="text">Welcome to BreachSneach</h1>
 
+        <h2 className="small-text"> The Decentrilized AI-Based Crypto Aattack Predicition Solution  
+        <h5>To get started authenticate using you crypto wallet</h5>
+        </h2>
+
+        <Account triedToEagerConnect={triedToEagerConnect} />
+          
         <h2 className="small-text"> sahdhwjdsakfhfwqjkdhsajkfh
           sadjkwqjdhkasjdfhfw asd wqdas fwa
         </h2>
 
-        <Account triedToEagerConnect={triedToEagerConnect} />
-
         
-        <Link href="/">
+        <h2 className="small-text"> sahdhwjdsakfhfwqjkdhsajkfh
+          sadjkwqjdhkasjdfhfw asd wqdas fwa
+        </h2>
+
+        <Link className="" href="/">
             <img height="217" width="283" src="https://raw.githubusercontent.com/TariCAD-sistema/BreachSneach/main/logo.png"/>
           </Link>
 
@@ -66,10 +80,17 @@ function Home() {
       <style jsx>{`
         nav {
           display: flex;
+          padding: 16px;
           justify-content: space-between;
+          align-items: center;
+          background-color: black;
+
+          // display: flex;
+          // justify-content: space-between;
         }
 
         main {
+          padding: 16px;
           text-align: center;
           background-image: url('https://raw.githubusercontent.com/TariCAD-sistema/BreachSneach/hustle/FrontEnd/images/bg1-gc-bl.jpeg');
         }
@@ -81,6 +102,7 @@ function Home() {
         .small-text {
           font-weight: 400;
           color: white;
+          background-color: black;
         }
 
         .hustle-button {
@@ -91,8 +113,21 @@ function Home() {
           color: white;
           font-weight: 700;
           text-transform: uppercase;
-          border-radius: 0.5rem;
+          // border-radius: 0.5rem;
           border-color: white;
+          border-width: medium;
+        }
+
+        .hustle-button-empty {
+          padding: .75rem 1.25rem;
+          // font-family: "Sono";
+          font-size: large; 
+          background-color: black;
+          color: black;
+          font-weight: 700;
+          text-transform: uppercase;
+          // border-radius: 0.5rem;
+          border-color: black;
           border-width: medium;
         }
       `}</style>

@@ -45,6 +45,7 @@ const Account = ({ triedToEagerConnect }: AccountProps) => {
       <div>
         {isWeb3Available ? (
           <button
+          className="hustle-button"
             disabled={connecting}
             onClick={() => {
               setConnecting(true);
@@ -66,6 +67,7 @@ const Account = ({ triedToEagerConnect }: AccountProps) => {
           <button onClick={startOnboarding}>Install Metamask</button>
         )}
         {(<button
+            className="hustle-button"
             disabled={connecting}
             onClick={async () => {
               try {
@@ -81,6 +83,23 @@ const Account = ({ triedToEagerConnect }: AccountProps) => {
             Wallet Connect
           </button>)
         }
+
+<style jsx>{`
+
+        .hustle-button {
+          padding: .75rem 1.25rem;
+          // font-family: "Sono";
+          font-size: large; 
+          background-color: black;
+          color: white;
+          font-weight: 700;
+          text-transform: uppercase;
+          border-radius: 0.5rem;
+          border-color: white;
+          border-width: medium;
+        }
+      `}</style>
+
       </div>
     );
   }
