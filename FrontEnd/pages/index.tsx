@@ -63,7 +63,7 @@ function Home() {
         <Account triedToEagerConnect={triedToEagerConnect} />
 
         <Link className="" href="/">
-            <img height="217" width="283" src="https://raw.githubusercontent.com/TariCAD-sistema/BreachSneach/main/logo.png"/>
+            <img height="217" width="283" src="https://raw.githubusercontent.com/TariCAD-sistema/BreachSneach/hustle/logo.png"/>
           </Link>
 
           {/* --- show user balance  */}
@@ -91,6 +91,9 @@ function Home() {
           padding: 10px;
           text-align: center;
           background-image: url('https://raw.githubusercontent.com/TariCAD-sistema/BreachSneach/hustle/FrontEnd/images/bg1-gc-bl.jpeg');
+          background-repeat: no-repeat;
+          background-attachment: fixed;
+          background-size: cover;
         }
         
         .container {
