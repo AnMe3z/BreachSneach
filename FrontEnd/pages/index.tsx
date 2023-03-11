@@ -47,22 +47,20 @@ function Home() {
       </header>
 
       <main>
-        <h1 className="text">Welcome to BreachSneach</h1>
+        <h1 className="title-text">Welcome to BreachSneach</h1>
 
-        <h2 className="small-text"> The Decentrilized AI-Based Crypto Aattack Predicition Solution  
-        <h5>To get started authenticate using you crypto wallet</h5>
+        {/* <div className="container">
+          <p>Your text goes here</p>
+        </div> */}
+        <h2 className="container"> 
+        The Decentrilized AI-Based Crypto Aattack Predicition Solution  
         </h2>
+
+        <h3 className="subtitle-title-text">
+          To get started authenticate using you crypto wallet
+        </h3>
 
         <Account triedToEagerConnect={triedToEagerConnect} />
-          
-        <h2 className="small-text"> sahdhwjdsakfhfwqjkdhsajkfh
-          sadjkwqjdhkasjdfhfw asd wqdas fwa
-        </h2>
-
-        
-        <h2 className="small-text"> sahdhwjdsakfhfwqjkdhsajkfh
-          sadjkwqjdhkasjdfhfw asd wqdas fwa
-        </h2>
 
         <Link className="" href="/">
             <img height="217" width="283" src="https://raw.githubusercontent.com/TariCAD-sistema/BreachSneach/main/logo.png"/>
@@ -80,7 +78,7 @@ function Home() {
       <style jsx>{`
         nav {
           display: flex;
-          padding: 16px;
+          padding: 10px;
           justify-content: space-between;
           align-items: center;
           background-color: black;
@@ -90,11 +88,61 @@ function Home() {
         }
 
         main {
-          padding: 16px;
+          padding: 10px;
           text-align: center;
           background-image: url('https://raw.githubusercontent.com/TariCAD-sistema/BreachSneach/hustle/FrontEnd/images/bg1-gc-bl.jpeg');
         }
         
+        .container {
+          border: 5px solid white;
+          background-color: black;
+          color: white;
+          padding: 16px;
+          align: center;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          width: 800px;
+          height: 100px;
+          margin: auto;
+          width: 40%;
+        }
+        
+        p {
+          margin: 0;
+        }
+
+        .title-text {
+          color: white;
+          font-weight:bold;
+          background-color: black;
+          color: white;
+          padding: 16px;
+          align: center;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          height: 100px;
+          margin: auto;
+          width: 40%;
+        }
+
+        .subtitle-title-text {
+          color: white;
+          font-weight:bold;
+          background-color: white;
+          color: black;
+          padding: 16px;
+          align: center;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          height: 50px;
+          margin: auto;
+          width: 40%;
+        }
+
+
         .text {
           color: white;
         }
@@ -102,7 +150,7 @@ function Home() {
         .small-text {
           font-weight: 400;
           color: white;
-          background-color: black;
+          // background-color: black;
         }
 
         .hustle-button {

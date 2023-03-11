@@ -87,6 +87,7 @@ const Account = ({ triedToEagerConnect }: AccountProps) => {
 <style jsx>{`
 
         .hustle-button {
+          margin:12px;
           padding: .75rem 1.25rem;
           // font-family: "Sono";
           font-size: large; 
