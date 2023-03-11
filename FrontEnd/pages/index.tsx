@@ -34,16 +34,25 @@ function Home() {
 
       <header>
         <nav>
-          <Link href="/">
-            <img height="217" width="283" src="https://raw.githubusercontent.com/TariCAD-sistema/BreachSneach/main/logo.jpg"/>
-          </Link>
+          <button className="hustle-button">About us</button>
+          <button className="hustle-button">Why AI?</button>
+          <button className="hustle-button">Stay Informed</button>
         </nav>
       </header>
 
       <main>
-        <h1>Welcome to BreachSneach</h1>
+        <h1 className="text">Welcome to BreachSneach</h1>
+
+        <h2 className="small-text"> sahdhwjdsakfhfwqjkdhsajkfh
+          sadjkwqjdhkasjdfhfw asd wqdas fwa
+        </h2>
 
         <Account triedToEagerConnect={triedToEagerConnect} />
+
+        
+        <Link href="/">
+            <img height="217" width="283" src="https://raw.githubusercontent.com/TariCAD-sistema/BreachSneach/main/logo.jpg"/>
+          </Link>
 
           {/* --- show user balance  */}
           {/* // <section>
@@ -62,6 +71,29 @@ function Home() {
 
         main {
           text-align: center;
+          background-image: url('https://raw.githubusercontent.com/TariCAD-sistema/BreachSneach/main/logo.jpg');
+        }
+        
+        .text {
+          color: white;
+        }
+
+        .small-text {
+          font-weight: 400;
+          color: white;
+        }
+
+        .hustle-button {
+          padding: .75rem 1.25rem;
+          // font-family: "Sono";
+          font-size: large; 
+          background-color: black;
+          color: white;
+          font-weight: 700;
+          text-transform: uppercase;
+          border-radius: 0.5rem;
+          border-color: white;
+          border-width: medium;
         }
       `}</style>
     </div>
